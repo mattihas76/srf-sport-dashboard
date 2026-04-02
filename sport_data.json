@@ -1,0 +1,73 @@
+{
+  "lastUpdated": "02.04.2026 19:53",
+  "categories": [
+    {
+      "name": "Fussball",
+      "emoji": "⚽",
+      "url": "https://www.srf.ch/sport/fussball",
+      "articles": [
+        {
+          "title": "Internationale Fussball-News Nach Klinikaufenthalt: Lucescu nicht mehr Rumänien-Trainer",
+          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-nach-klinikaufenthalt-lucescu-nicht-mehr-rumaenien-trainer",
+          "image": "https://www.srf.ch/static/cms/images/320ws/f40d6e.webp"
+        },
+        {
+          "title": "Nach Debakel in WM-Quali Italiens Verbandschef Gravina und Sportchef Buffon treten zurück Das neuerliche Verpassen der WM-Endrunde hat für die Funktionäre vom italienischen Fussballverband Konsequenzen.",
+          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/nach-debakel-in-wm-quali-italiens-verbandschef-gravina-und-sportchef-buffon-treten-zurueck",
+          "image": "https://www.srf.ch/static/cms/images/320ws/d87b6d.webp"
+        }
+      ]
+    },
+    {
+      "name": "Eishockey",
+      "emoji": "🏒",
+      "url": "https://www.srf.ch/sport/eishockey",
+      "articles": [
+        {
+          "title": "News aus dem Eishockey College-Auswahl wieder am Spengler Cup",
+          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-dem-eishockey-college-auswahl-wieder-am-spengler-cup",
+          "image": "https://www.srf.ch/static/cms/images/320ws/c1bee9d.webp"
+        },
+        {
+          "title": "News aus der National League Freiburgs Nemeth für fünf Partien gesperrt",
+          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-freiburgs-nemeth-fuer-fuenf-partien-gesperrt",
+          "image": "https://www.srf.ch/static/cms/images/320ws/b8eacf.webp"
+        }
+      ]
+    },
+    {
+      "name": "Tennis",
+      "emoji": "🎾",
+      "url": "https://www.srf.ch/sport/tennis",
+      "articles": [
+        {
+          "title": "WTA-500 in Charleston Bencic nach Fehlstart und Breakfestival im Viertelfinal Belinda Bencic schlägt die Tschechin Sara Bejlek im Achtelfinal von Charleston in 1:48 Stunden 7:6 (7:4), 6:2.",
+          "url": "https://www.srf.ch/sport/tennis/wta-tour/wta-500-in-charleston-bencic-nach-fehlstart-und-breakfestival-im-viertelfinal",
+          "image": "https://www.srf.ch/static/cms/images/320ws/76dffdb.webp"
+        },
+        {
+          "title": "News aus dem Tennis Auftakt geglückt: Bencic siegt nach Umwegen",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-auftakt-geglueckt-bencic-siegt-nach-umwegen",
+          "image": "https://www.srf.ch/static/cms/images/320ws/14c598.webp"
+        }
+      ]
+    },
+    {
+      "name": "Mehr Sport",
+      "emoji": "🏅",
+      "url": "https://www.srf.ch/sport/mehr-sport",
+      "articles": [
+        {
+          "title": "News aus dem Wintersport Bonnet doppelt beim Weltcupfinale nach und holt Gesamtweltcup",
+          "url": "https://www.srf.ch/sport/mehr-sport/wintersport/news-aus-dem-wintersport-bonnet-doppelt-beim-weltcupfinale-nach-und-holt-gesamtweltcup",
+          "image": "https://www.srf.ch/static/cms/images/320ws/352f20.webp"
+        },
+        {
+          "title": "Positive Dopingprobe Deutsche Team-Olympiasiegerin Carl 18 Monate gesperrt Die Langläuferin Victoria Carl wird nach einem Verfahren wegen einer positiven Dopingprobe für 18 Monate gesperrt.",
+          "url": "https://www.srf.ch/sport/mehr-sport/langlauf/positive-dopingprobe-deutsche-team-olympiasiegerin-carl-18-monate-gesperrt",
+          "image": "https://www.srf.ch/static/cms/images/320ws/a41f41.webp"
+        }
+      ]
+    }
+  ]
+}

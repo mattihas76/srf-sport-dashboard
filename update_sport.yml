@@ -1,0 +1,32 @@
+name: Daily Sport Scraper
+
+on:
+  schedule:
+    # Jeden Tag um 06:00 Uhr UTC (= 08:00 Uhr Schweizer Zeit)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Erlaubt den manuellen Start ueber die GitHub-Oberflaeche
+
+jobs:
+  update-sport:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Sport Scraper
+        run: python fetch_sport.py
+
+      - name: Commit and Push Update
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Sport Scraper Bot"
+          git add sport_data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: Neue Sport-Headlines" && git push)
