@@ -3,6 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Prevent caching so Wix iframe always loads the latest version -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     <title>SRF Sport Dashboard</title>
     <meta name="description" content="Live Sport Dashboard mit den neuesten Headlines aus Fussball, Eishockey, Tennis und mehr Sport von SRF.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -285,9 +289,15 @@
     </div>
 
     <script>
-        // --- Auto-reload every 60 minutes ---
+        // --- Absolute base URL for GitHub Pages ---
+        const BASE_URL = 'https://mattihas76.github.io/srf-sport-dashboard/';
+
+        // --- Auto-reload every 60 minutes (works inside iframes) ---
         const RELOAD_INTERVAL_MS = 60 * 60 * 1000; // 60 minutes
-        setTimeout(() => location.reload(), RELOAD_INTERVAL_MS);
+        setInterval(() => {
+            // Force a full reload bypassing cache
+            window.location.replace(window.location.href.split('?')[0] + '?t=' + new Date().getTime());
+        }, RELOAD_INTERVAL_MS);
 
         // Category CSS class mapping
         const categoryClasses = {
@@ -299,7 +309,9 @@
 
         async function loadDashboard() {
             try {
-                const response = await fetch('sport_data.json?t=' + new Date().getTime());
+                // Use absolute URL so it always works, even inside a Wix iframe
+                const jsonUrl = BASE_URL + 'sport_data.json?t=' + new Date().getTime();
+                const response = await fetch(jsonUrl);
                 if (!response.ok) throw new Error('sport_data.json not found');
                 const data = await response.json();
                 renderDashboard(data);
