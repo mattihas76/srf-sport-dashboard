@@ -8,83 +8,66 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
     <title>SRF Sport Dashboard</title>
-    <meta name="description" content="Live Sport Dashboard mit den neuesten Headlines aus Fussball, Eishockey, Tennis und mehr Sport von SRF.">
+    <meta name="description" content="Live Sport Ticker mit den neuesten Headlines von SRF Sport.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-dark: #e8f1fa;
-            --bg-card: #ffffff;
-            --bg-card-hover: #f0f7ff;
-            --glass-border: rgba(0,0,0,0.08);
-            --accent-fussball: #16a34a;
-            --accent-eishockey: #2563eb;
-            --accent-tennis: #d97706;
-            --accent-mehr: #9333ea;
-            --text-main: #1e293b;
-            --text-muted: #64748b;
-            --text-white: #1e293b;
+            --bg-dark: #0f172a;
+            --bg-card: rgba(255,255,255,0.06);
+            --bg-card-hover: rgba(255,255,255,0.12);
+            --glass-border: rgba(255,255,255,0.1);
+            --accent-fussball: #22c55e;
+            --accent-eishockey: #3b82f6;
+            --accent-tennis: #f59e0b;
+            --accent-mehr: #a855f7;
+            --text-main: #f1f5f9;
+            --text-muted: #94a3b8;
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
-        body {
+        html, body {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
             background: var(--bg-dark);
             color: var(--text-main);
-            min-height: 100vh;
-            overflow-x: hidden;
         }
 
-        /* Animated gradient background */
-        body::before {
-            content: '';
-            position: fixed;
-            top: 0; left: 0; right: 0; bottom: 0;
-            background: 
-                radial-gradient(ellipse at 20% 20%, rgba(34, 197, 94, 0.08) 0%, transparent 50%),
-                radial-gradient(ellipse at 80% 20%, rgba(59, 130, 246, 0.08) 0%, transparent 50%),
-                radial-gradient(ellipse at 20% 80%, rgba(245, 158, 11, 0.08) 0%, transparent 50%),
-                radial-gradient(ellipse at 80% 80%, rgba(168, 85, 247, 0.08) 0%, transparent 50%);
-            z-index: 0;
-            animation: pulseGlow 10s ease-in-out infinite alternate;
-        }
-
-        @keyframes pulseGlow {
-            0% { opacity: 0.6; }
-            100% { opacity: 1; }
-        }
-
-        @keyframes fadeInUp {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
-        @keyframes slideIn {
-            from { opacity: 0; transform: translateX(-15px); }
-            to { opacity: 1; transform: translateX(0); }
-        }
-
-        .container {
+        /* Main banner container - fills entire viewport */
+        .banner-wrapper {
             position: relative;
-            z-index: 1;
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 2rem 1.5rem;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
         }
 
-        /* Header */
-        header {
-            text-align: center;
-            margin-bottom: 2.5rem;
-            animation: fadeInUp 0.6s ease-out;
+        /* Top bar with logo and update info */
+        .top-bar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0.5rem 1.5rem;
+            background: rgba(0,0,0,0.3);
+            border-bottom: 1px solid var(--glass-border);
+            flex-shrink: 0;
+            min-height: 40px;
         }
 
-        header h1 {
-            font-size: 2.8rem;
+        .top-bar-left {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .logo {
+            font-size: 1.1rem;
             font-weight: 900;
-            letter-spacing: -0.04em;
-            background: linear-gradient(135deg, #16a34a, #2563eb, #d97706, #9333ea);
+            letter-spacing: -0.02em;
+            background: linear-gradient(135deg, #22c55e, #3b82f6, #f59e0b, #a855f7);
             background-size: 300% 300%;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -97,138 +80,270 @@
             50% { background-position: 100% 50%; }
         }
 
+        .live-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #22c55e;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.5); }
+            50% { opacity: 0.7; box-shadow: 0 0 0 6px rgba(34, 197, 94, 0); }
+        }
+
         .update-badge {
-            display: inline-block;
-            margin-top: 0.75rem;
-            padding: 0.35rem 1rem;
-            border-radius: 999px;
-            background: rgba(255,255,255,0.7);
-            border: 1px solid rgba(0,0,0,0.1);
+            font-size: 0.7rem;
             color: var(--text-muted);
-            font-size: 0.8rem;
             font-weight: 600;
         }
 
-        /* Grid Layout */
-        .dashboard-grid {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 1.5rem;
+        /* Progress bar showing current position */
+        .progress-bar-container {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: rgba(255,255,255,0.05);
+            z-index: 10;
         }
 
-        @media (max-width: 1100px) {
-            .dashboard-grid { grid-template-columns: repeat(2, 1fr); }
-        }
-        @media (max-width: 600px) {
-            .dashboard-grid { grid-template-columns: 1fr; }
-            header h1 { font-size: 2rem; }
-        }
-
-        /* Category Column */
-        .category-column {
-            animation: fadeInUp 0.6s ease-out both;
-        }
-        .category-column:nth-child(1) { animation-delay: 0.1s; }
-        .category-column:nth-child(2) { animation-delay: 0.2s; }
-        .category-column:nth-child(3) { animation-delay: 0.3s; }
-        .category-column:nth-child(4) { animation-delay: 0.4s; }
-
-        .category-header {
-            display: flex;
-            align-items: center;
-            gap: 0.6rem;
-            padding: 0.75rem 1rem;
-            border-radius: 12px 12px 0 0;
-            font-weight: 700;
-            font-size: 1.1rem;
-            text-transform: uppercase;
-            letter-spacing: 0.04em;
+        .progress-bar {
+            height: 100%;
+            background: linear-gradient(90deg, #22c55e, #3b82f6, #f59e0b, #a855f7);
+            background-size: 300% 100%;
+            animation: gradientShift 6s ease infinite;
+            width: 0%;
+            transition: width 0.3s ease;
         }
 
-        .category-header .emoji {
-            font-size: 1.4rem;
-        }
-
-        .cat-fussball .category-header { background: linear-gradient(135deg, rgba(22,163,74,0.15), rgba(22,163,74,0.05)); border-bottom: 2px solid var(--accent-fussball); color: var(--accent-fussball); }
-        .cat-eishockey .category-header { background: linear-gradient(135deg, rgba(37,99,235,0.15), rgba(37,99,235,0.05)); border-bottom: 2px solid var(--accent-eishockey); color: var(--accent-eishockey); }
-        .cat-tennis .category-header { background: linear-gradient(135deg, rgba(217,119,6,0.15), rgba(217,119,6,0.05)); border-bottom: 2px solid var(--accent-tennis); color: var(--accent-tennis); }
-        .cat-mehr-sport .category-header { background: linear-gradient(135deg, rgba(147,51,234,0.15), rgba(147,51,234,0.05)); border-bottom: 2px solid var(--accent-mehr); color: var(--accent-mehr); }
-
-        .articles-list {
-            display: flex;
-            flex-direction: column;
-            gap: 0;
-        }
-
-        /* Article Card */
-        .article-card {
-            display: flex;
-            flex-direction: column;
-            background: var(--bg-card);
-            border: 1px solid var(--glass-border);
-            border-top: none;
-            padding: 0;
-            transition: all 0.3s ease;
-            cursor: pointer;
-            text-decoration: none;
-            color: inherit;
-            overflow: hidden;
-        }
-
-        .article-card:last-child {
-            border-radius: 0 0 12px 12px;
-        }
-
-        .article-card:hover {
-            background: var(--bg-card-hover);
-            border-color: rgba(0,0,0,0.12);
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
-        }
-
-        .article-image {
-            width: 100%;
-            height: 160px;
-            object-fit: cover;
-            display: block;
-            transition: transform 0.5s ease;
-        }
-
-        .article-card:hover .article-image {
-            transform: scale(1.05);
-        }
-
-        .article-image-wrapper {
+        /* Ticker area */
+        .ticker-viewport {
+            flex: 1;
             overflow: hidden;
             position: relative;
         }
 
-        .article-body {
-            padding: 0.85rem 1rem;
+        .ticker-track {
+            display: flex;
+            height: 100%;
+            transition: transform 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            will-change: transform;
         }
 
-        .article-title {
-            font-size: 0.9rem;
+        /* Individual article slide */
+        .slide {
+            flex-shrink: 0;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 2rem;
+            padding: 1.5rem 3rem;
+            position: relative;
+        }
+
+        .slide-image-wrapper {
+            flex-shrink: 0;
+            width: 45%;
+            max-width: 500px;
+            height: 80%;
+            border-radius: 16px;
+            overflow: hidden;
+            position: relative;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+        }
+
+        .slide-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+            transition: transform 8s ease;
+        }
+
+        .slide.active .slide-image {
+            transform: scale(1.05);
+        }
+
+        /* Category accent bar on top of image */
+        .slide-image-wrapper::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            z-index: 2;
+        }
+
+        .slide.cat-fussball .slide-image-wrapper::before { background: var(--accent-fussball); }
+        .slide.cat-eishockey .slide-image-wrapper::before { background: var(--accent-eishockey); }
+        .slide.cat-tennis .slide-image-wrapper::before { background: var(--accent-tennis); }
+        .slide.cat-mehr-sport .slide-image-wrapper::before { background: var(--accent-mehr); }
+
+        .slide-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: 0.75rem;
+            max-width: 500px;
+        }
+
+        .slide-category {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.85rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            opacity: 0;
+            transform: translateY(10px);
+            transition: all 0.5s ease 0.2s;
+        }
+
+        .slide.active .slide-category {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .slide.cat-fussball .slide-category { color: var(--accent-fussball); }
+        .slide.cat-eishockey .slide-category { color: var(--accent-eishockey); }
+        .slide.cat-tennis .slide-category { color: var(--accent-tennis); }
+        .slide.cat-mehr-sport .slide-category { color: var(--accent-mehr); }
+
+        .slide-title {
+            font-size: clamp(1.1rem, 2.5vw, 1.8rem);
+            font-weight: 700;
+            line-height: 1.3;
+            color: var(--text-main);
+            opacity: 0;
+            transform: translateY(15px);
+            transition: all 0.5s ease 0.35s;
+        }
+
+        .slide.active .slide-title {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .slide-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            color: var(--text-muted);
+            font-size: 0.8rem;
             font-weight: 600;
-            line-height: 1.4;
-            color: var(--text-white);
+            text-decoration: none;
+            opacity: 0;
+            transform: translateY(10px);
+            transition: all 0.5s ease 0.5s;
         }
 
-        /* Loader */
-        .loader {
+        .slide.active .slide-link {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .slide-link:hover {
+            color: var(--text-main);
+        }
+
+        .slide-link svg {
+            width: 14px;
+            height: 14px;
+            transition: transform 0.3s ease;
+        }
+
+        .slide-link:hover svg {
+            transform: translateX(3px);
+        }
+
+        /* Slide counter dots */
+        .slide-dots {
+            position: absolute;
+            bottom: 1rem;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 6px;
+            z-index: 10;
+        }
+
+        .dot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.2);
+            transition: all 0.3s ease;
+        }
+
+        .dot.active {
+            width: 20px;
+            border-radius: 3px;
+            background: rgba(255,255,255,0.7);
+        }
+
+        /* Countdown timer ring */
+        .countdown-ring {
+            position: absolute;
+            top: 1rem;
+            right: 1.5rem;
+            width: 36px;
+            height: 36px;
+            z-index: 10;
+        }
+
+        .countdown-ring svg {
+            transform: rotate(-90deg);
+        }
+
+        .countdown-ring circle {
+            fill: none;
+            stroke-width: 2.5;
+        }
+
+        .countdown-ring .ring-bg {
+            stroke: rgba(255,255,255,0.08);
+        }
+
+        .countdown-ring .ring-progress {
+            stroke: rgba(255,255,255,0.5);
+            stroke-dasharray: 100;
+            stroke-dashoffset: 100;
+            stroke-linecap: round;
+            transition: stroke-dashoffset 0.1s linear;
+        }
+
+        /* Loading / Update overlay */
+        .overlay {
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(15, 23, 42, 0.95);
+            backdrop-filter: blur(10px);
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            padding: 4rem;
-            gap: 1rem;
+            gap: 1.2rem;
+            z-index: 100;
+            transition: opacity 0.5s ease;
+        }
+
+        .overlay.hidden {
+            opacity: 0;
+            pointer-events: none;
         }
 
         .spinner {
             width: 40px;
             height: 40px;
-            border: 3px solid var(--glass-border);
-            border-top: 3px solid var(--accent-fussball);
+            border: 3px solid rgba(255,255,255,0.1);
+            border-top: 3px solid #3b82f6;
             border-radius: 50%;
             animation: spin 0.8s linear infinite;
         }
@@ -237,67 +352,105 @@
             to { transform: rotate(360deg); }
         }
 
-        .error-message {
-            display: none;
+        .overlay-text {
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-muted);
             text-align: center;
-            padding: 3rem;
+        }
+
+        /* Edge fade gradients */
+        .ticker-viewport::before,
+        .ticker-viewport::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 60px;
+            z-index: 5;
+            pointer-events: none;
+        }
+
+        .ticker-viewport::before {
+            left: 0;
+            background: linear-gradient(to right, var(--bg-dark), transparent);
+        }
+
+        .ticker-viewport::after {
+            right: 0;
+            background: linear-gradient(to left, var(--bg-dark), transparent);
+        }
+
+        /* Error state */
+        .error-message {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
             color: #f87171;
             font-weight: 600;
-        }
-
-        /* Footer */
-        footer {
-            text-align: center;
-            margin-top: 2.5rem;
-            padding: 1rem;
-            color: var(--text-muted);
-            font-size: 0.75rem;
-            opacity: 0.6;
-        }
-
-        /* Print */
-        @media print {
-            body { background: #fff; color: #000; }
-            body::before { display: none; }
-            .article-card { border: 1px solid #ccc; break-inside: avoid; }
-            .article-title { color: #000; }
-            .category-header { color: #000 !important; background: #f3f3f3 !important; }
+            display: none;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>SRF Sport Dashboard</h1>
+    <div class="banner-wrapper">
+        <!-- Top bar -->
+        <div class="top-bar">
+            <div class="top-bar-left">
+                <div class="live-dot"></div>
+                <div class="logo">SRF SPORT</div>
+            </div>
             <div class="update-badge" id="update-badge">Wird geladen...</div>
-        </header>
-
-        <div class="loader" id="loader">
-            <div class="spinner"></div>
-            <div>Lade die neuesten Sport-Headlines...</div>
         </div>
 
-        <div class="error-message" id="error-message">
-            Fehler beim Laden der Sportdaten. Bitte versuchen Sie es später erneut.
+        <!-- Ticker viewport -->
+        <div class="ticker-viewport" id="ticker-viewport">
+            <div class="ticker-track" id="ticker-track"></div>
+
+            <!-- Countdown ring -->
+            <div class="countdown-ring" id="countdown-ring">
+                <svg viewBox="0 0 36 36">
+                    <circle class="ring-bg" cx="18" cy="18" r="15.5"></circle>
+                    <circle class="ring-progress" id="ring-progress" cx="18" cy="18" r="15.5"></circle>
+                </svg>
+            </div>
+
+            <!-- Navigation dots -->
+            <div class="slide-dots" id="slide-dots"></div>
+
+            <!-- Loading overlay -->
+            <div class="overlay" id="overlay">
+                <div class="spinner"></div>
+                <div class="overlay-text" id="overlay-text">Lade die neuesten Sport-Headlines...</div>
+            </div>
+
+            <!-- Error message -->
+            <div class="error-message" id="error-message">
+                Fehler beim Laden der Sportdaten.
+            </div>
         </div>
 
-        <div class="dashboard-grid" id="dashboard-grid" style="display: none;"></div>
-
-        <footer>
-            Datenquelle: srf.ch/sport &middot; Automatisch aktualisiert
-        </footer>
+        <!-- Progress bar -->
+        <div class="progress-bar-container">
+            <div class="progress-bar" id="progress-bar"></div>
+        </div>
     </div>
 
     <script>
-        // --- Absolute base URL for GitHub Pages ---
+        // --- Configuration ---
         const BASE_URL = 'https://mattihas76.github.io/srf-sport-dashboard/';
+        const PAUSE_DURATION = 5000;        // 5 seconds pause per slide
+        const SCROLL_DURATION = 800;        // 0.8s transition between slides
+        const UPDATE_INTERVAL = 60 * 60 * 1000; // Re-fetch every 60 minutes
 
-        // --- Auto-reload every 60 minutes (works inside iframes) ---
-        const RELOAD_INTERVAL_MS = 60 * 60 * 1000; // 60 minutes
-        setInterval(() => {
-            // Force a full reload bypassing cache
-            window.location.replace(window.location.href.split('?')[0] + '?t=' + new Date().getTime());
-        }, RELOAD_INTERVAL_MS);
+        // --- State ---
+        let slides = [];
+        let currentSlide = 0;
+        let slideTimer = null;
+        let countdownTimer = null;
+        let isPaused = false;
 
         // Category CSS class mapping
         const categoryClasses = {
@@ -307,89 +460,267 @@
             'Mehr Sport': 'cat-mehr-sport',
         };
 
-        async function loadDashboard() {
-            try {
-                // Use absolute URL so it always works, even inside a Wix iframe
-                const jsonUrl = BASE_URL + 'sport_data.json?t=' + new Date().getTime();
-                const response = await fetch(jsonUrl);
-                if (!response.ok) throw new Error('sport_data.json not found');
-                const data = await response.json();
-                renderDashboard(data);
-            } catch (error) {
-                console.error('Error:', error);
-                document.getElementById('loader').style.display = 'none';
-                document.getElementById('error-message').style.display = 'block';
-            }
-        }
+        const categoryColors = {
+            'Fussball': '#22c55e',
+            'Eishockey': '#3b82f6',
+            'Tennis': '#f59e0b',
+            'Mehr Sport': '#a855f7',
+        };
 
+        // --- Decode HTML entities ---
         function decodeHTML(text) {
             const el = document.createElement('textarea');
             el.innerHTML = text;
             return el.value;
         }
 
-        function renderDashboard(data) {
-            document.getElementById('loader').style.display = 'none';
-            const grid = document.getElementById('dashboard-grid');
-            grid.style.display = 'grid';
+        // --- Fetch data ---
+        async function fetchData() {
+            const jsonUrl = BASE_URL + 'sport_data.json?t=' + new Date().getTime();
+            const response = await fetch(jsonUrl);
+            if (!response.ok) throw new Error('sport_data.json not found');
+            return await response.json();
+        }
 
-            document.getElementById('update-badge').textContent = 
-                'Letztes Update: ' + data.lastUpdated;
-
+        // --- Build slides from data ---
+        function buildSlides(data) {
+            const allArticles = [];
             data.categories.forEach(cat => {
-                const cssClass = categoryClasses[cat.name] || 'cat-fussball';
-
-                const col = document.createElement('div');
-                col.className = `category-column ${cssClass}`;
-
-                // Category header
-                const header = document.createElement('div');
-                header.className = 'category-header';
-                header.innerHTML = `<span class="emoji">${cat.emoji}</span> ${cat.name}`;
-                col.appendChild(header);
-
-                // Articles
-                const list = document.createElement('div');
-                list.className = 'articles-list';
-
-                cat.articles.forEach((article, i) => {
-                    const card = document.createElement('a');
-                    card.className = 'article-card';
-                    card.href = article.url;
-                    card.target = '_blank';
-                    card.rel = 'noopener';
-                    card.style.animationDelay = `${0.1 + i * 0.1}s`;
-
-                    let imageHTML = '';
-                    if (article.image) {
-                        imageHTML = `
-                            <div class="article-image-wrapper">
-                                <img class="article-image" 
-                                     src="${article.image}" 
-                                     alt="${decodeHTML(article.title).substring(0, 60)}"
-                                     loading="lazy"
-                                     onerror="this.parentElement.style.display='none'">
-                            </div>
-                        `;
-                    }
-
-                    card.innerHTML = `
-                        ${imageHTML}
-                        <div class="article-body">
-                            <div class="article-title">${decodeHTML(article.title)}</div>
-                        </div>
-                    `;
-
-                    list.appendChild(card);
+                cat.articles.forEach(article => {
+                    allArticles.push({
+                        category: cat.name,
+                        emoji: cat.emoji,
+                        cssClass: categoryClasses[cat.name] || 'cat-fussball',
+                        color: categoryColors[cat.name] || '#3b82f6',
+                        title: decodeHTML(article.title),
+                        url: article.url,
+                        image: article.image,
+                    });
                 });
+            });
+            return allArticles;
+        }
 
-                col.appendChild(list);
-                grid.appendChild(col);
+        // --- Render slides into the ticker track ---
+        function renderSlides() {
+            const track = document.getElementById('ticker-track');
+            const viewport = document.getElementById('ticker-viewport');
+            track.innerHTML = '';
+
+            slides.forEach((slide, i) => {
+                const el = document.createElement('div');
+                el.className = `slide ${slide.cssClass}`;
+                el.style.width = viewport.offsetWidth + 'px';
+                el.dataset.index = i;
+
+                el.innerHTML = `
+                    <div class="slide-image-wrapper">
+                        <img class="slide-image" 
+                             src="${slide.image}" 
+                             alt="${slide.title.substring(0, 60)}"
+                             onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 400 300%22><rect fill=%22%231e293b%22 width=%22400%22 height=%22300%22/><text x=%22200%22 y=%22150%22 text-anchor=%22middle%22 fill=%22%2364748b%22 font-size=%2220%22>${slide.emoji}</text></svg>'">
+                    </div>
+                    <div class="slide-content">
+                        <div class="slide-category">
+                            <span>${slide.emoji}</span>
+                            <span>${slide.category}</span>
+                        </div>
+                        <div class="slide-title">${slide.title}</div>
+                        <a class="slide-link" href="${slide.url}" target="_blank" rel="noopener">
+                            Artikel lesen
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="5" y1="12" x2="19" y2="12"></line>
+                                <polyline points="12 5 19 12 12 19"></polyline>
+                            </svg>
+                        </a>
+                    </div>
+                `;
+
+                track.appendChild(el);
+            });
+
+            // Build dots
+            const dotsContainer = document.getElementById('slide-dots');
+            dotsContainer.innerHTML = '';
+            slides.forEach((_, i) => {
+                const dot = document.createElement('div');
+                dot.className = 'dot' + (i === 0 ? ' active' : '');
+                dot.dataset.index = i;
+                dotsContainer.appendChild(dot);
             });
         }
 
-        // Load on page ready
-        window.addEventListener('DOMContentLoaded', loadDashboard);
+        // --- Go to a specific slide ---
+        function goToSlide(index) {
+            if (slides.length === 0) return;
+
+            // Remove active from previous
+            const prevSlide = document.querySelector('.slide.active');
+            if (prevSlide) prevSlide.classList.remove('active');
+
+            currentSlide = index % slides.length;
+            const track = document.getElementById('ticker-track');
+            const viewport = document.getElementById('ticker-viewport');
+            const slideWidth = viewport.offsetWidth;
+
+            // Move track
+            track.style.transform = `translateX(-${currentSlide * slideWidth}px)`;
+
+            // Activate current slide
+            setTimeout(() => {
+                const activeSlide = document.querySelectorAll('.slide')[currentSlide];
+                if (activeSlide) activeSlide.classList.add('active');
+            }, 100);
+
+            // Update dots
+            document.querySelectorAll('.dot').forEach((dot, i) => {
+                dot.classList.toggle('active', i === currentSlide);
+            });
+
+            // Update progress bar
+            const progressBar = document.getElementById('progress-bar');
+            const progress = ((currentSlide + 1) / slides.length) * 100;
+            progressBar.style.width = progress + '%';
+
+            // Start countdown
+            startCountdown();
+        }
+
+        // --- Countdown timer for each slide ---
+        function startCountdown() {
+            clearInterval(countdownTimer);
+            clearTimeout(slideTimer);
+
+            const ring = document.getElementById('ring-progress');
+            const circumference = 2 * Math.PI * 15.5; // r=15.5
+            ring.style.strokeDasharray = circumference;
+
+            let elapsed = 0;
+            const step = 50; // update every 50ms
+
+            countdownTimer = setInterval(() => {
+                elapsed += step;
+                const fraction = elapsed / PAUSE_DURATION;
+                const offset = circumference * (1 - fraction);
+                ring.style.strokeDashoffset = offset;
+
+                if (elapsed >= PAUSE_DURATION) {
+                    clearInterval(countdownTimer);
+                    nextSlide();
+                }
+            }, step);
+        }
+
+        // --- Go to next slide ---
+        function nextSlide() {
+            goToSlide(currentSlide + 1);
+        }
+
+        // --- Stop ticker ---
+        function stopTicker() {
+            clearTimeout(slideTimer);
+            clearInterval(countdownTimer);
+        }
+
+        // --- Initial load ---
+        async function init() {
+            try {
+                const data = await fetchData();
+
+                // Update badge
+                document.getElementById('update-badge').textContent =
+                    'Letztes Update: ' + data.lastUpdated;
+
+                slides = buildSlides(data);
+
+                if (slides.length === 0) {
+                    throw new Error('No articles found');
+                }
+
+                renderSlides();
+
+                // Hide overlay
+                document.getElementById('overlay').classList.add('hidden');
+
+                // Start ticker
+                goToSlide(0);
+
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('overlay').classList.add('hidden');
+                document.getElementById('error-message').style.display = 'block';
+            }
+        }
+
+        // --- Periodic update ---
+        async function updateData() {
+            stopTicker();
+
+            // Show update overlay
+            const overlay = document.getElementById('overlay');
+            const overlayText = document.getElementById('overlay-text');
+            overlayText.textContent = 'Bitte warten. Aktualisierung läuft...';
+            overlay.classList.remove('hidden');
+
+            try {
+                const data = await fetchData();
+
+                // Update badge
+                document.getElementById('update-badge').textContent =
+                    'Letztes Update: ' + data.lastUpdated;
+
+                slides = buildSlides(data);
+                renderSlides();
+
+                // Short delay so user sees the message
+                await new Promise(resolve => setTimeout(resolve, 1500));
+
+                // Hide overlay
+                overlay.classList.add('hidden');
+
+                // Restart from first slide
+                goToSlide(0);
+
+            } catch (error) {
+                console.error('Update error:', error);
+                overlayText.textContent = 'Aktualisierung fehlgeschlagen. Weiter mit bestehenden Daten...';
+                await new Promise(resolve => setTimeout(resolve, 2000));
+                overlay.classList.add('hidden');
+
+                // Resume ticker with existing data
+                if (slides.length > 0) {
+                    goToSlide(currentSlide);
+                }
+            }
+        }
+
+        // --- Handle resize ---
+        window.addEventListener('resize', () => {
+            if (slides.length === 0) return;
+            const viewport = document.getElementById('ticker-viewport');
+            const slideWidth = viewport.offsetWidth;
+
+            // Update all slide widths
+            document.querySelectorAll('.slide').forEach(slide => {
+                slide.style.width = slideWidth + 'px';
+            });
+
+            // Re-position
+            const track = document.getElementById('ticker-track');
+            track.style.transition = 'none';
+            track.style.transform = `translateX(-${currentSlide * slideWidth}px)`;
+            // Re-enable transition
+            requestAnimationFrame(() => {
+                track.style.transition = 'transform 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94)';
+            });
+        });
+
+        // --- Start ---
+        window.addEventListener('DOMContentLoaded', () => {
+            init();
+            // Schedule periodic updates
+            setInterval(updateData, UPDATE_INTERVAL);
+        });
     </script>
 </body>
 </html>
