@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "02.04.2026 19:53",
+  "lastUpdated": "03.04.2026 16:59",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Internationale Fussball-News Nach Klinikaufenthalt: Lucescu nicht mehr Rumänien-Trainer",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-nach-klinikaufenthalt-lucescu-nicht-mehr-rumaenien-trainer",
-          "image": "https://www.srf.ch/static/cms/images/320ws/f40d6e.webp"
+          "title": "Nach Verpassen der WM Gattuso nicht mehr italienischer Nationalcoach Nach dem Out in den WM-Playoffs gegen Bosnien-Herzegowina ist Gennaro Gattusos Vertrag aufgelöst worden.",
+          "url": "https://www.srf.ch/sport/fussball/wm-qualifikation/nach-verpassen-der-wm-gattuso-nicht-mehr-italienischer-nationalcoach",
+          "image": "https://www.srf.ch/static/cms/images/320ws/14abbe.webp"
         },
         {
-          "title": "Nach Debakel in WM-Quali Italiens Verbandschef Gravina und Sportchef Buffon treten zurück Das neuerliche Verpassen der WM-Endrunde hat für die Funktionäre vom italienischen Fussballverband Konsequenzen.",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/nach-debakel-in-wm-quali-italiens-verbandschef-gravina-und-sportchef-buffon-treten-zurueck",
-          "image": "https://www.srf.ch/static/cms/images/320ws/d87b6d.webp"
+          "title": "Ausblick auf Fussball-Ostern Überdosis «Atletico-Barça» und ein Kracher in England Am verlängerten Osterwochenende geht es im internationalen Fussball hoch her. Wir haben drei Affichen herausgepickt.",
+          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/ausblick-auf-fussball-ostern-ueberdosis-atletico-barca-und-ein-kracher-in-england",
+          "image": "https://www.srf.ch/static/cms/images/320ws/d3f053.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
-          "title": "News aus dem Eishockey College-Auswahl wieder am Spengler Cup",
-          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-dem-eishockey-college-auswahl-wieder-am-spengler-cup",
-          "image": "https://www.srf.ch/static/cms/images/320ws/c1bee9d.webp"
+          "title": "Genf vs. Gottéron in Playoffs Nach dem Derby ist vor dem Derby – «es wird zur Sache gehen» Lausanne wurde in die Ferien geschickt. Ab Samstag duellieren sich die Genfer mit Fribourg-Gottéron.",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/genf-vs-gotteron-in-playoffs-nach-dem-derby-ist-vor-dem-derby-es-wird-zur-sache-gehen",
+          "image": "https://www.srf.ch/static/cms/images/320ws/8e4b17.webp"
         },
         {
-          "title": "News aus der National League Freiburgs Nemeth für fünf Partien gesperrt",
-          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-freiburgs-nemeth-fuer-fuenf-partien-gesperrt",
-          "image": "https://www.srf.ch/static/cms/images/320ws/b8eacf.webp"
+          "title": "Halbfinalserie HCD vs. ZSC Kann Knak vor der «Heimkehr» den künftigen Arbeitgeber ärgern? Simon Knak trifft im Playoff-Halbfinal mit Davos auf die ZSC Lions, für die er ab nächster Saison aufläuft.",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/halbfinalserie-hcd-vs-zsc-kann-knak-vor-der-heimkehr-den-kuenftigen-arbeitgeber-aergern",
+          "image": "https://www.srf.ch/static/cms/images/320ws/d62a8a.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "News aus dem Wintersport Bonnet doppelt beim Weltcupfinale nach und holt Gesamtweltcup",
-          "url": "https://www.srf.ch/sport/mehr-sport/wintersport/news-aus-dem-wintersport-bonnet-doppelt-beim-weltcupfinale-nach-und-holt-gesamtweltcup",
-          "image": "https://www.srf.ch/static/cms/images/320ws/352f20.webp"
+          "title": "Spezialstrecke in Vars 248 km/h: Italienerin stellt neuen Speedskiing-Weltrekord auf Valentina Greggio verbessert ihre eigene zehnjährige Bestleistung um über einen Stundenkilometer.",
+          "url": "https://www.srf.ch/sport/mehr-sport/ski-freestyle/spezialstrecke-in-vars-248-km-h-italienerin-stellt-neuen-speedskiing-weltrekord-auf",
+          "image": "https://www.srf.ch/static/cms/images/320ws/7b4c91.webp"
         },
         {
-          "title": "Positive Dopingprobe Deutsche Team-Olympiasiegerin Carl 18 Monate gesperrt Die Langläuferin Victoria Carl wird nach einem Verfahren wegen einer positiven Dopingprobe für 18 Monate gesperrt.",
-          "url": "https://www.srf.ch/sport/mehr-sport/langlauf/positive-dopingprobe-deutsche-team-olympiasiegerin-carl-18-monate-gesperrt",
-          "image": "https://www.srf.ch/static/cms/images/320ws/a41f41.webp"
+          "title": "Playoff-Final im Volleyball Macht Näfels den letzten Schritt zurück auf die Sonnenseite? Volley Näfels steht erstmals seit der Saison 2017/18 wieder im Playoff-Final. Gegen Amriswil soll die Krönung folgen.",
+          "url": "https://www.srf.ch/sport/mehr-sport/volleyball/playoff-final-im-volleyball-macht-naefels-den-letzten-schritt-zurueck-auf-die-sonnenseite",
+          "image": "https://www.srf.ch/static/cms/images/320ws/d92caf.webp"
         }
       ]
     }
