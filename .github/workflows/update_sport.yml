@@ -29,4 +29,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "Sport Scraper Bot"
           git add sport_data.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: Neue Sport-Headlines" && git push)
+                   git commit --allow-empty -m "Auto-update: Neue Sport-Headlines"
+          git push
+
