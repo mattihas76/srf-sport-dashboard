@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03.04.2026 16:59",
+  "lastUpdated": "04.04.2026 07:06",
   "categories": [
     {
       "name": "Fussball",
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
+          "title": "Schweizer mit Tor und Assist Suter und die Blues: Klappts doch noch mit den NHL-Playoffs? Pius Suter feiert mit den St. Louis Blues einen wichtigen Auswärtssieg gegen die Anaheim Ducks.",
+          "url": "https://www.srf.ch/sport/eishockey/nhl/schweizer-mit-tor-und-assist-suter-und-die-blues-klappts-doch-noch-mit-den-nhl-playoffs",
+          "image": "https://www.srf.ch/static/cms/images/320ws/157889.webp"
+        },
+        {
           "title": "Genf vs. Gottéron in Playoffs Nach dem Derby ist vor dem Derby – «es wird zur Sache gehen» Lausanne wurde in die Ferien geschickt. Ab Samstag duellieren sich die Genfer mit Fribourg-Gottéron.",
           "url": "https://www.srf.ch/sport/eishockey/national-league/genf-vs-gotteron-in-playoffs-nach-dem-derby-ist-vor-dem-derby-es-wird-zur-sache-gehen",
           "image": "https://www.srf.ch/static/cms/images/320ws/8e4b17.webp"
-        },
-        {
-          "title": "Halbfinalserie HCD vs. ZSC Kann Knak vor der «Heimkehr» den künftigen Arbeitgeber ärgern? Simon Knak trifft im Playoff-Halbfinal mit Davos auf die ZSC Lions, für die er ab nächster Saison aufläuft.",
-          "url": "https://www.srf.ch/sport/eishockey/national-league/halbfinalserie-hcd-vs-zsc-kann-knak-vor-der-heimkehr-den-kuenftigen-arbeitgeber-aergern",
-          "image": "https://www.srf.ch/static/cms/images/320ws/d62a8a.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "Beim WTA-Turnier in Charleston Bencic verliert gegen Keys den Faden und den Match Belinda Bencic ist beim WTA-Turnier in Charleston im Viertelfinal ausgeschieden.",
+          "url": "https://www.srf.ch/sport/tennis/wta-tour/beim-wta-turnier-in-charleston-bencic-verliert-gegen-keys-den-faden-und-den-match",
+          "image": "https://www.srf.ch/static/cms/images/320ws/6c1de6.webp"
+        },
+        {
           "title": "WTA-500 in Charleston Bencic nach Fehlstart und Breakfestival im Viertelfinal Belinda Bencic schlägt die Tschechin Sara Bejlek im Achtelfinal von Charleston in 1:48 Stunden 7:6 (7:4), 6:2.",
           "url": "https://www.srf.ch/sport/tennis/wta-tour/wta-500-in-charleston-bencic-nach-fehlstart-und-breakfestival-im-viertelfinal",
           "image": "https://www.srf.ch/static/cms/images/320ws/76dffdb.webp"
-        },
-        {
-          "title": "News aus dem Tennis Auftakt geglückt: Bencic siegt nach Umwegen",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-auftakt-geglueckt-bencic-siegt-nach-umwegen",
-          "image": "https://www.srf.ch/static/cms/images/320ws/14c598.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Spezialstrecke in Vars 248 km/h: Italienerin stellt neuen Speedskiing-Weltrekord auf Valentina Greggio verbessert ihre eigene zehnjährige Bestleistung um über einen Stundenkilometer.",
-          "url": "https://www.srf.ch/sport/mehr-sport/ski-freestyle/spezialstrecke-in-vars-248-km-h-italienerin-stellt-neuen-speedskiing-weltrekord-auf",
-          "image": "https://www.srf.ch/static/cms/images/320ws/7b4c91.webp"
+          "title": "Endspurt in der NBA Capela sichert sich mit den Rockets das Playoff-Ticket Die Houston Rockets feiern in der NBA den fünften Sieg in Folge und werden in den Playoffs dabei sein.",
+          "url": "https://www.srf.ch/sport/mehr-sport/basketball/endspurt-in-der-nba-capela-sichert-sich-mit-den-rockets-das-playoff-ticket",
+          "image": "https://www.srf.ch/static/cms/images/320ws/7319a0.webp"
         },
         {
-          "title": "Playoff-Final im Volleyball Macht Näfels den letzten Schritt zurück auf die Sonnenseite? Volley Näfels steht erstmals seit der Saison 2017/18 wieder im Playoff-Final. Gegen Amriswil soll die Krönung folgen.",
-          "url": "https://www.srf.ch/sport/mehr-sport/volleyball/playoff-final-im-volleyball-macht-naefels-den-letzten-schritt-zurueck-auf-die-sonnenseite",
-          "image": "https://www.srf.ch/static/cms/images/320ws/d92caf.webp"
+          "title": "Unihockey: Playoff-Halbfinals Wilers Bischofberger: Zum Abschluss noch einmal Meister? Nicola Bischofberger beendet Ende Saison seine Karriere. Im Playoff-Halbfinal trifft er auf seinen Ex-Klub Rychenberg.",
+          "url": "https://www.srf.ch/sport/mehr-sport/unihockey/unihockey-playoff-halbfinals-wilers-bischofberger-zum-abschluss-noch-einmal-meister",
+          "image": "https://www.srf.ch/static/cms/images/320ws/b97bf3.webp"
         }
       ]
     }
