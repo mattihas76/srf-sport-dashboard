@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04.04.2026 20:52",
+  "lastUpdated": "05.04.2026 07:12",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
+          "title": "Inter Miami hat neues Zuhause Messi trifft bei Einweihung der neuen Heimstätte In der Major League Soccer hat Inter Miami am Samstagabend sein neues Stadion eingeweiht.",
+          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/inter-miami-hat-neues-zuhause-messi-trifft-bei-einweihung-der-neuen-heimstaette",
+          "image": "https://www.srf.ch/static/cms/images/320ws/90b1b2.webp"
+        },
+        {
           "title": "3:3 im St. Jakob-Park Wildes Duell zwischen Basel und YB endet ohne Sieger Basel und YB liefern sich in der 32. Super-League-Runde im St. Jakob-Park ein Spektakel-Duell, das ohne Sieger endet.",
           "url": "https://www.srf.ch/sport/fussball/super-league/3-3-im-st-jakob-park-wildes-duell-zwischen-basel-und-yb-endet-ohne-sieger",
           "image": "https://www.srf.ch/static/cms/images/320ws/481c91.webp"
-        },
-        {
-          "title": "1:2-Niederlage in Lausanne Winterthur kann den Druck auf GC im Abstiegskampf nicht erhöhen Das Schlusslicht verliert in Lausanne nach 1:0-Führung mit 1:2 und verpasst es, wichtige Punkte zu holen.",
-          "url": "https://www.srf.ch/sport/fussball/super-league/1-2-niederlage-in-lausanne-winterthur-kann-den-druck-auf-gc-im-abstiegskampf-nicht-erhoehen",
-          "image": "https://www.srf.ch/static/cms/images/320ws/02ca10.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
+          "title": "NHL in der Nacht auf Sonntag Nashville gibt im Wildcard-Rennen Gas – Buffalo atmet auf Die «Preds» gewinnen in San Jose das Direktduell um einen Wildcard-Platz. Für Buffalo endet eine lange Durststrecke.",
+          "url": "https://www.srf.ch/sport/eishockey/nhl/nhl-in-der-nacht-auf-sonntag-nashville-gibt-im-wildcard-rennen-gas-buffalo-atmet-auf",
+          "image": "https://www.srf.ch/static/cms/images/320ws/c3fcbd.webp"
+        },
+        {
           "title": "Playoff-Halbfinal: Spiel 1 Dank Bertschys Solo: Gottéron fährt Heimsieg ein Die Freiburger gewinnen Spiel 1 der Halbfinalserie gegen Genf zuhause mit 3:1. Matchwinner ist Christoph Bertschy.",
           "url": "https://www.srf.ch/sport/eishockey/national-league/playoff-halbfinal-spiel-1-dank-bertschys-solo-gotteron-faehrt-heimsieg-ein",
           "image": "https://www.srf.ch/static/cms/images/320ws/4ef91f.webp"
-        },
-        {
-          "title": "Spiel 1 im Playoff-Halbfinal 2:0, 2:2, 4:2: Davos schenkt Führung her und legt dennoch vor Der Quali-Sieger startet mit einem 4:2-Erfolg in den Playoff-Halbfinal gegen die ZSC Lions.",
-          "url": "https://www.srf.ch/sport/eishockey/national-league/spiel-1-im-playoff-halbfinal-2-0-2-2-4-2-davos-schenkt-fuehrung-her-und-legt-dennoch-vor",
-          "image": "https://www.srf.ch/static/cms/images/320ws/42d906.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
+          "title": "Curling-WM in Ogden Schweden holt den Titel – Bronze an Schottland Nach einem 9:6 im Final über Kanada sind Schwedens Curler Weltmeister.",
+          "url": "https://www.srf.ch/sport/mehr-sport/curling/curling-wm-in-ogden-schweden-holt-den-titel-bronze-an-schottland",
+          "image": "https://www.srf.ch/static/cms/images/320ws/cc0b977.webp"
+        },
+        {
           "title": "Hallensport am Samstag Rychenberg setzt Statement – Amriswil mit Break in Näfels In den Unihockey-Playoffs setzt sich Rychenberg im 1. Halbfinal-Spiel mit 6:1 durch. Im Volleyball jubelt Amriswil.",
           "url": "https://www.srf.ch/sport/mehr-sport/unihockey/hallensport-am-samstag-rychenberg-setzt-statement-amriswil-mit-break-in-naefels",
           "image": "https://www.srf.ch/static/cms/images/320ws/7e9cba.webp"
-        },
-        {
-          "title": "Weitere Sport-News Cambridge gewinnt 171. Boat Race",
-          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-cambridge-gewinnt-171-boat-race",
-          "image": "https://www.srf.ch/static/cms/images/320ws/6a1096.webp"
         }
       ]
     }
