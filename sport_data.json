@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07.04.2026 07:24",
+  "lastUpdated": "08.04.2026 07:27",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Champions League: Viertelfinal Wieder wie auf Knopfdruck? Real empfängt Bayern zum Klassiker Die «Königlichen» schwanken zuletzt zwischen Lethargie und Magie. Was zeigen sie in der Champions League gegen Bayern?",
-          "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-viertelfinal-wieder-wie-auf-knopfdruck-real-empfaengt-bayern-zum-klassiker",
-          "image": "https://www.srf.ch/static/cms/images/320ws/e367535.webp"
+          "title": "Interview mit Doppelbürger Turkes: «Es wurde gefeiert, als wäre Bosnien schon Weltmeister» Aldin Turkes spricht im SRF-Interview über Bosniens WM-Quali und seinen Wunsch, bald wieder in der Schweiz zu spielen.",
+          "url": "https://www.srf.ch/sport/fussball/fifa-wm-2026/interview-mit-doppelbuerger-turkes-es-wurde-gefeiert-als-waere-bosnien-schon-weltmeister",
+          "image": "https://www.srf.ch/static/cms/images/320ws/fe8b9e.webp"
         },
         {
-          "title": "Champions League vs. Sporting Arsenal braucht Gyökeres gegen seinen Ex-Klub dringend 2 von 4 möglichen Titeln hat Arsenal im Eilzugstempo verspielt. Im CL-Viertelfinal sind die Londoner klarer Favorit.",
-          "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-vs-sporting-arsenal-braucht-gyoekeres-gegen-seinen-ex-klub-dringend",
-          "image": "https://www.srf.ch/static/cms/images/320ws/14f501.webp"
+          "title": "Champions League: Viertelfinal Joker stechen: Arsenal feiert späten 1:0-Erfolg in Lissabon Dank des Tors von Kai Havertz in der Nachspielzeit wird Arsenal für eine durchzogene Hinspiel-Leistung reich belohnt.",
+          "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-viertelfinal-joker-stechen-arsenal-feiert-spaeten-1-0-erfolg-in-lissabon",
+          "image": "https://www.srf.ch/static/cms/images/320ws/62bfaf.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
-          "title": "Schweizer in der NHL Niederreiter gibt sein Comeback – Josi mit Tor und Assist Winnipeg und Nashville haben im NHL-Playoff-Rennen gepunktet.",
-          "url": "https://www.srf.ch/sport/eishockey/nhl/schweizer-in-der-nhl-niederreiter-gibt-sein-comeback-josi-mit-tor-und-assist",
-          "image": "https://www.srf.ch/static/cms/images/320ws/054417e.webp"
+          "title": "Endspurt in der NHL Playoff-Zug für die Devils definitiv abgefahren Die zuletzt nur noch ganz leisen Wildcard-Hoffnungen der New Jersey Devils in der NHL lösen sich endgültig in Luft auf.",
+          "url": "https://www.srf.ch/sport/eishockey/nhl/endspurt-in-der-nhl-playoff-zug-fuer-die-devils-definitiv-abgefahren",
+          "image": "https://www.srf.ch/static/cms/images/320ws/efe9e3a.webp"
         },
         {
-          "title": "7:3 im 2. Halbfinalspiel Servette hält Freiburgs Aufholjagd in extremis stand Servette gleicht die Playoff-Halbfinal-Serie gegen Fribourg-Gottéron dank einem 7:3-Heimsieg zum 1:1 aus.",
-          "url": "https://www.srf.ch/sport/eishockey/national-league/7-3-im-2-halbfinalspiel-servette-haelt-freiburgs-aufholjagd-in-extremis-stand",
-          "image": "https://www.srf.ch/static/cms/images/320ws/1f07c3.webp"
+          "title": "13 Jahre nach Konkurs Sierre Meister der Swiss League – Liga-Qualifikation entfällt 13 Jahre nach dem Konkurs und dem Rückzug in die 3. Liga sind die Walliser Meister in der Swiss League.",
+          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/13-jahre-nach-konkurs-sierre-meister-der-swiss-league-liga-qualifikation-entfaellt",
+          "image": "https://www.srf.ch/static/cms/images/320ws/624334.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "ATP-Turnier in Monte-Carlo Alcaraz und Sinner mit souveränem Aufgalopp auf Sand Carlos Alcaraz und Jannik Sinner starten in Monte-Carlo ohne Satzverlust in die Sandplatzsaison.",
+          "url": "https://www.srf.ch/sport/tennis/atp-tour/atp-turnier-in-monte-carlo-alcaraz-und-sinner-mit-souveraenem-aufgalopp-auf-sand",
+          "image": "https://www.srf.ch/static/cms/images/320ws/6a6b16.webp"
+        },
+        {
           "title": "News aus dem Tennis Wawrinka scheidet in Monte-Carlo in der 1. Runde aus",
           "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-wawrinka-scheidet-in-monte-carlo-in-der-1-runde-aus",
           "image": "https://www.srf.ch/static/cms/images/320ws/d4a672.webp"
-        },
-        {
-          "title": "Beim WTA-Turnier in Charleston Bencic verliert gegen Keys den Faden und den Match Belinda Bencic ist beim WTA-Turnier in Charleston im Viertelfinal ausgeschieden.",
-          "url": "https://www.srf.ch/sport/tennis/wta-tour/beim-wta-turnier-in-charleston-bencic-verliert-gegen-keys-den-faden-und-den-match",
-          "image": "https://www.srf.ch/static/cms/images/320ws/6c1de6.webp"
         }
       ]
     },
