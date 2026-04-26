@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25.04.2026 07:23",
+  "lastUpdated": "26.04.2026 07:44",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Fussball aus den Topligen Xhakas Sunderland blamiert sich – Sorgen um Mbappé",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-xhakas-sunderland-blamiert-sich-sorgen-um-mbappe",
-          "image": "https://www.srf.ch/static/cms/images/320ws/99486d.webp"
+          "title": "Super League: 34. Runde Meisterfeier vertagt: Thun unterliegt Lugano erneut 0:1 Der FC Thun kann sich noch nicht Schweizer Meister nennen. Die Berner Oberländer verpassen den dafür benötigten Sieg.",
+          "url": "https://www.srf.ch/sport/fussball/super-league/super-league-34-runde-meisterfeier-vertagt-thun-unterliegt-lugano-erneut-0-1",
+          "image": "https://www.srf.ch/static/cms/images/320ws/ae67e9.webp"
         },
         {
-          "title": "31. Spieltag in der Bundesliga Union Berlin nach Niederlage in Leipzig weiter in Abstiegsgefahr RB Leipzig festigt mit einem 3:1-Heimsieg einen Champions-League-Platz. Union Berlin hat weiter Abstiegssorgen.",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/31-spieltag-in-der-bundesliga-union-berlin-nach-niederlage-in-leipzig-weiter-in-abstiegsgefahr",
-          "image": "https://www.srf.ch/static/cms/images/320ws/10f0c6b.webp"
+          "title": "Champions League, 1. Halbfinal Bayern-Frauen retten gegen Barça in Unterzahl 1:1-Remis Verteidigerin Franziska Kett trifft beim achtbaren Resultat für die Münchnerinnen, sieht aber auch die rote Karte.",
+          "url": "https://www.srf.ch/sport/fussball/frauen-fussball/champions-league-1-halbfinal-bayern-frauen-retten-gegen-barca-in-unterzahl-1-1-remis",
+          "image": "https://www.srf.ch/static/cms/images/320ws/e8525b.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
-          "title": "Playoffs in der NHL Moser und die Lightning erneut in Rücklage Die Tampa Bay Lightning verlieren im Achtelfinal gegen Montreal das dritte Spiel in der Overtime.",
-          "url": "https://www.srf.ch/sport/eishockey/nhl/playoffs-in-der-nhl-moser-und-die-lightning-erneut-in-ruecklage",
-          "image": "https://www.srf.ch/static/cms/images/320ws/55a783.webp"
+          "title": "Playoff-Final: Vor Spiel 5 Namhafte Absenzen, wirkungsloser Stransky und Platz für Helden Fora und Zadina hier, Schmid und Glauser da: Die Finalserie ist auch von Absenzen geprägt. Wer springt in die Bresche?",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/playoff-final-vor-spiel-5-namhafte-absenzen-wirkungsloser-stransky-und-platz-fuer-helden",
+          "image": "https://www.srf.ch/static/cms/images/320ws/246466.webp"
         },
         {
-          "title": "Playoff-Final, Spiel 4 Gottéron verzweifelt an Aeschlimann: HCD gleicht Serie wieder aus Alles wieder ausgeglichen: Der HC Davos stellt in der Final-Serie dank des 4. Breaks im 4. Spiel auf 2:2.",
-          "url": "https://www.srf.ch/sport/eishockey/national-league/playoff-final-spiel-4-gotteron-verzweifelt-an-aeschlimann-hcd-gleicht-serie-wieder-aus",
-          "image": "https://www.srf.ch/static/cms/images/320ws/b8b22c.webp"
+          "title": "NHL-Playoffs Dallas muss den Ausgleich hinnehmen Die Stars mit Lian Bichsel führen gegen Minnesota zweimal, verlieren aber nach Verlängerung.",
+          "url": "https://www.srf.ch/sport/eishockey/nhl/nhl-playoffs-dallas-muss-den-ausgleich-hinnehmen",
+          "image": "https://www.srf.ch/static/cms/images/320ws/c92265.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "News aus dem Tennis Sieg über Shnaider: Bencic steht im Madrid-Achtelfinal",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-sieg-ueber-shnaider-bencic-steht-im-madrid-achtelfinal",
+          "image": "https://www.srf.ch/static/cms/images/320ws/c1b21d.webp"
+        },
+        {
           "title": "Wegen Handgelenksverletzung Keine Titelverteidigung: Alcaraz gibt für French Open Forfait Carlos Alcaraz muss wegen einer Verletzung kürzer treten und verpasst damit unter anderem auch die French Open.",
           "url": "https://www.srf.ch/sport/tennis/atp-tour/wegen-handgelenksverletzung-keine-titelverteidigung-alcaraz-gibt-fuer-french-open-forfait",
           "image": "https://www.srf.ch/static/cms/images/320ws/05067c.webp"
-        },
-        {
-          "title": "News aus dem Tennis Walterts Lauf in Madrid gestoppt",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-walterts-lauf-in-madrid-gestoppt-1",
-          "image": "https://www.srf.ch/static/cms/images/320ws/fed8b1.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "News aus den US Sports Houston Rockets mit Capela vor dem Aus",
-          "url": "https://www.srf.ch/sport/mehr-sport/news-aus-den-us-sports-houston-rockets-mit-capela-vor-dem-aus",
-          "image": "https://www.srf.ch/static/cms/images/320ws/632288.webp"
+          "title": "5:4 n.P. im Superfinal vs. Zug Trotz verspieltem 4:0: Rychenberg ist erstmals Schweizer Meister Drama pur im Superfinal der Männer: Rychenberg Winterthur verspielt binnen Minuten ein 4:0, gewinnt aber 5:4 n.P.",
+          "url": "https://www.srf.ch/sport/mehr-sport/unihockey/5-4-n-p-im-superfinal-vs-zug-trotz-verspieltem-4-0-rychenberg-ist-erstmals-schweizer-meister",
+          "image": "https://www.srf.ch/static/cms/images/320ws/e4548b.webp"
         },
         {
-          "title": "Superfinals live bei SRF Zwei Superfinal-Neulinge fordern die Titelverteidiger heraus Das wichtigste Unihockey-Spiel des Jahres steht an. Bei Frauen wie Männer heisst es Routiniers gegen Debütanten.",
-          "url": "https://www.srf.ch/sport/mehr-sport/unihockey/superfinals-live-bei-srf-zwei-superfinal-neulinge-fordern-die-titelverteidiger-heraus",
-          "image": "https://www.srf.ch/static/cms/images/320ws/2eca09.webp"
+          "title": "Weitere Sport-News Thomas Sempach hört auf – Kadetten legen vor",
+          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-thomas-sempach-hoert-auf-kadetten-legen-vor",
+          "image": "https://www.srf.ch/static/cms/images/320ws/2873eb.webp"
         }
       ]
     }
