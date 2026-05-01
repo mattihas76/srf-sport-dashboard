@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30.04.2026 08:27",
+  "lastUpdated": "01.05.2026 08:17",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "CL-Halbfinal-Hinspiel Atletico vs. Arsenal: 2 Elfmeter, aber kein Sieger Die Partie nimmt vor allem in der zweiten Halbzeit Fahrt auf. Die beiden Tore fallen vom Elfmeterpunkt.",
-          "url": "https://www.srf.ch/sport/fussball/champions-league/cl-halbfinal-hinspiel-atletico-vs-arsenal-2-elfmeter-aber-kein-sieger",
-          "image": "https://www.srf.ch/static/cms/images/320ws/64b405.webp"
+          "title": "Viertelfinal-Rückspiel in WSL St. Galler Vorsprung, doch für Basel liegt noch alles drin Die St. Gallerinnen gehen mit einem Mini-Vorsprung ins Viertelfinal-Rückspiel in Basel und wollen den Coup schaffen.",
+          "url": "https://www.srf.ch/sport/fussball/women-s-super-league/viertelfinal-rueckspiel-in-wsl-st-galler-vorsprung-doch-fuer-basel-liegt-noch-alles-drin",
+          "image": "https://www.srf.ch/static/cms/images/320ws/d5b89a.webp"
         },
         {
-          "title": "Internationale Fussball-News Hakimi fällt für Rückspiel aus – Bühler verlässt Tottenham",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-hakimi-faellt-fuer-rueckspiel-aus-buehler-verlaesst-tottenham",
-          "image": "https://www.srf.ch/static/cms/images/320ws/a8f1f7.webp"
+          "title": "Round-up Europacup Freiburg verspielt gute Ausgangslage in letzter Minute Manzambi und Co. unterliegen im Halbfinal-Hinspiel der Europa League 1:2. Nottingham Forest schlägt Aston Villa.",
+          "url": "https://www.srf.ch/sport/fussball/europa-league/round-up-europacup-freiburg-verspielt-gute-ausgangslage-in-letzter-minute",
+          "image": "https://www.srf.ch/static/cms/images/320ws/d8f8533.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
-          "title": "Sesselrücken in der NL Trainer-Rochade: Liniger heuert bei Kloten an – Marjamäki zum EVZ Der im Januar in Zug entlassene Michael Liniger übernimmt den EHC Kloten. Zug holt dafür Klotens bisherigen Coach.",
-          "url": "https://www.srf.ch/sport/eishockey/national-league/sesselruecken-in-der-nl-trainer-rochade-liniger-heuert-bei-kloten-an-marjamaeki-zum-evz",
-          "image": "https://www.srf.ch/static/cms/images/320ws/b9ae51.webp"
+          "title": "Nach vergebenen Meisterpucks «Es tut weh»: Grosse Leere beim HCD – Umbruch steht an Während die HCD-Spieler mit dem bitteren Scheitern im Playoff-Final hadern, blicken die Funktionäre bereits nach vorne.",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/nach-vergebenen-meisterpucks-es-tut-weh-grosse-leere-beim-hcd-umbruch-steht-an",
+          "image": "https://www.srf.ch/static/cms/images/320ws/acede76.webp"
         },
         {
-          "title": "Zuerst Euro Hockey Tour in CZE WM vor eigener Haustür: Hungriger Suter will «den grossen Coup» Nach einer durchzogenen NHL-Saison richtet Pius Suter den Fokus voll auf die Heim-WM mit dem Schweizer Nationalteam.",
-          "url": "https://www.srf.ch/sport/eishockey/nationalmannschaft/zuerst-euro-hockey-tour-in-cze-wm-vor-eigener-haustuer-hungriger-suter-will-den-grossen-coup",
-          "image": "https://www.srf.ch/static/cms/images/320ws/2d89673.webp"
+          "title": "Playoffs in der NHL Saisonende für Bichsel und die Dallas Stars Die Texaner verlieren in der 1. Playoff-Runde der NHL in Spiel 6 gegen Minnesota mit 2:5 und damit die Serie 2:4.",
+          "url": "https://www.srf.ch/sport/eishockey/nhl/playoffs-in-der-nhl-saisonende-fuer-bichsel-und-die-dallas-stars",
+          "image": "https://www.srf.ch/static/cms/images/320ws/808262.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "1000er-Turniere Madrid Überraschender Frauen-Final – Jungstar Blockx fordert Zverev Marta Kostjuk und Mirra Andrejewa, die Turniernummern 26 und 9, bestreiten beim Masters in Madrid das Endspiel.",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/1000er-turniere-madrid-ueberraschender-frauen-final-jungstar-blockx-fordert-zverev",
+          "image": "https://www.srf.ch/static/cms/images/320ws/196cfac.webp"
+        },
+        {
           "title": "News aus dem Tennis Youngster Jodar fordert Sinner – am Ende ohne Erfolg",
           "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-youngster-jodar-fordert-sinner-am-ende-ohne-erfolg",
           "image": "https://www.srf.ch/static/cms/images/320ws/2d9cefc.webp"
-        },
-        {
-          "title": "News aus dem Tennis Trotz 6 Matchbällen: Sabalenka scheitert in Madrid",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-trotz-6-matchbaellen-sabalenka-scheitert-in-madrid",
-          "image": "https://www.srf.ch/static/cms/images/320ws/875ab0.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Weitere Sport-News Volleyballerin Storck gewinnt in Polen das Double",
-          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-volleyballerin-storck-gewinnt-in-polen-das-double",
-          "image": "https://www.srf.ch/static/cms/images/320ws/99225cd.webp"
+          "title": "News aus den US Sports Müller verhilft Boston zu siegreichem Playoff-Auftakt",
+          "url": "https://www.srf.ch/sport/mehr-sport/news-aus-den-us-sports-mueller-verhilft-boston-zu-siegreichem-playoff-auftakt",
+          "image": "https://www.srf.ch/static/cms/images/320ws/8e8dda.webp"
         },
         {
-          "title": "News aus den US Sports Rockets verkürzen weiter – Capela ohne Spielzeit",
-          "url": "https://www.srf.ch/sport/mehr-sport/news-aus-den-us-sports-rockets-verkuerzen-weiter-capela-ohne-spielzeit",
-          "image": "https://www.srf.ch/static/cms/images/320ws/9a2160.webp"
+          "title": "Beachvolleyball in Brasilia «Team Zouk» verliert Schweizer Duell Anouk und Zoé Vergé-Dépré unterliegen zum Auftakt des Elite16-Events in Brasilia Joana Mäder/Leona Kernen 14:21, 19:21.",
+          "url": "https://www.srf.ch/sport/mehr-sport/beachvolleyball/beachvolleyball-in-brasilia-team-zouk-verliert-schweizer-duell",
+          "image": "https://www.srf.ch/static/cms/images/320ws/b8d734.webp"
         }
       ]
     }
