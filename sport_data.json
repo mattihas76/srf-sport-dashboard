@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09.05.2026 08:00",
+  "lastUpdated": "10.05.2026 08:11",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Barça fehlt 1 Punkt zum Titel «Unerträgliche Atmosphäre»: Real zerfleischt sich vor Clasico Bei Real Madrid fliegen die Fetzen. Vor dem Clasico am Sonntag geben die «Königlichen» ein bedenkliches Bild ab.",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/barca-fehlt-1-punkt-zum-titel-unertraegliche-atmosphaere-real-zerfleischt-sich-vor-clasico",
-          "image": "https://www.srf.ch/static/cms/images/320ws/e0d443.webp"
+          "title": "Bei 4:2-Sieg über Toronto 100. Torbeteiligung im 64. Spiel: Messi mit weiterem Rekord Lionel Messi führt Inter Miami in der MLS zum Erfolg gegen Toronto und feiert ein kleines Jubiläum.",
+          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/bei-4-2-sieg-ueber-toronto-100-torbeteiligung-im-64-spiel-messi-mit-weiterem-rekord",
+          "image": "https://www.srf.ch/static/cms/images/320ws/b4209d.webp"
         },
         {
-          "title": "FCZ reicht ein Punkt Die letzte GC-Chance im Stadtderby Für die Grasshoppers steht im Duell der taumelnden Zürcher Klubs der fixe Ligaerhalt auf dem Spiel.",
-          "url": "https://www.srf.ch/sport/fussball/super-league/fcz-reicht-ein-punkt-die-letzte-gc-chance-im-stadtderby",
-          "image": "https://www.srf.ch/static/cms/images/320ws/8aca50.webp"
+          "title": "Direktduell am Sonntag live Lugano bedrängt FCSG im Kampf um Vize-Meisterschaft Am Sonntag kommt es in der Super League zum Duell der formstarken Lugano und St. Gallen.",
+          "url": "https://www.srf.ch/sport/fussball/super-league/direktduell-am-sonntag-live-lugano-bedraengt-fcsg-im-kampf-um-vize-meisterschaft",
+          "image": "https://www.srf.ch/static/cms/images/320ws/d536ed2.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
+          "title": "Euro Hockey Tour in Schweden Zum 5. Mal in Serie: Tapfere Nati unterliegt Schweden erneut Die Schweiz muss sich gegen die Skandinavier trotz einem weitgehend ansprechenden Auftritt mit 0:3 geschlagen geben.",
+          "url": "https://www.srf.ch/sport/eishockey/nationalmannschaft/euro-hockey-tour-in-schweden-zum-5-mal-in-serie-tapfere-nati-unterliegt-schweden-erneut",
+          "image": "https://www.srf.ch/static/cms/images/320ws/4c663b.webp"
+        },
+        {
           "title": "Test am Samstag gegen Schweden Revanche, Jubiläum und Neuland: Die Nati eine Woche vor WM-Start Am Wochenende bestreitet die Schweiz im Rahmen der Euro Hockey Tour die letzten beiden WM-Tests.",
           "url": "https://www.srf.ch/sport/eishockey/nationalmannschaft/test-am-samstag-gegen-schweden-revanche-jubilaeum-und-neuland-die-nati-eine-woche-vor-wm-start",
           "image": "https://www.srf.ch/static/cms/images/320ws/bf2ffe.webp"
-        },
-        {
-          "title": "News aus der National League Finnischer Verteidiger für Lugano",
-          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-finnischer-verteidiger-fuer-lugano",
-          "image": "https://www.srf.ch/static/cms/images/320ws/7c7e8d.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
-          "title": "WTA 1000 Rom Masarova gelingt Exploit – Waltert out Rebeka Masarova schlägt beim Sandplatzturnier von Rom Leylah Fernandez und zieht in Runde 3 ein.",
-          "url": "https://www.srf.ch/sport/tennis/wta-tour/wta-1000-rom-masarova-gelingt-exploit-waltert-out",
-          "image": "https://www.srf.ch/static/cms/images/320ws/ae7dd1.webp"
+          "title": "WTA-1000-Turnier in Rom Bencic und Golubic bleiben in der 3. Runde hängen Sowohl für Belinda Bencic als auch für Viktorija Golubic ist das Turnier in Rom nach der 3. Runde vorbei.",
+          "url": "https://www.srf.ch/sport/tennis/wta-tour/wta-1000-turnier-in-rom-bencic-und-golubic-bleiben-in-der-3-runde-haengen",
+          "image": "https://www.srf.ch/static/cms/images/320ws/806e642.webp"
         },
         {
-          "title": "ATP-Turnier in Rom Djokovic scheitert bei seinem Comeback gleich zum Auftakt Nach fast zweimonatiger Wettkampfpause verliert Novak Djokovic in Rom bei seinem ersten Spiel in drei Sätzen.",
-          "url": "https://www.srf.ch/sport/tennis/atp-tour/atp-turnier-in-rom-djokovic-scheitert-bei-seinem-comeback-gleich-zum-auftakt",
-          "image": "https://www.srf.ch/static/cms/images/320ws/35f88c.webp"
+          "title": "News aus dem Tennis Tsitsipas schlägt erstmals in Genf auf",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-tsitsipas-schlaegt-erstmals-in-genf-auf",
+          "image": "https://www.srf.ch/static/cms/images/320ws/0d9ddd2.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "News aus den US Sports Marner schiesst Vegas zum Sieg – Müller mit Boston in Rücklage",
-          "url": "https://www.srf.ch/sport/mehr-sport/news-aus-den-us-sports-marner-schiesst-vegas-zum-sieg-mueller-mit-boston-in-ruecklage",
-          "image": "https://www.srf.ch/static/cms/images/320ws/461fe6.webp"
+          "title": "Boxkampf in Manchester Dubois meldet sich nach Spektakel mit WM-Titel zurück Daniel Dubois entscheidet den WM-Kampf gegen seinen britischen Landsmann Fabio Wardley für sich.",
+          "url": "https://www.srf.ch/sport/mehr-sport/boxen/boxkampf-in-manchester-dubois-meldet-sich-nach-spektakel-mit-wm-titel-zurueck",
+          "image": "https://www.srf.ch/static/cms/images/320ws/0928cc.webp"
         },
         {
-          "title": "Weitere Sport-News Schweizer Frauen gewinnen an der Schiess-EM Bronze",
-          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-schweizer-frauen-gewinnen-an-der-schiess-em-bronze",
-          "image": "https://www.srf.ch/static/cms/images/320ws/c35339.webp"
+          "title": "News aus den US Sports Nach «Sweep»: Carolina erster Playoff-Halbfinalist in der NHL",
+          "url": "https://www.srf.ch/sport/mehr-sport/news-aus-den-us-sports-nach-sweep-carolina-erster-playoff-halbfinalist-in-der-nhl",
+          "image": "https://www.srf.ch/static/cms/images/320ws/297b31.webp"
         }
       ]
     }
