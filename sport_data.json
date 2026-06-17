@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16.06.2026 11:17",
+  "lastUpdated": "17.06.2026 11:02",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Iranischer WM-Auftakt in USA Aufwühlendes Remis, Infantino-Kabinenbesuch, sofortige Ausreise Das war kein normales WM-Spiel. Der erste Auftritt des Iran in den USA stand unter besonderen Vorzeichen.",
-          "url": "https://www.srf.ch/sport/fussball/fifa-wm-2026/iranischer-wm-auftakt-in-usa-aufwuehlendes-remis-infantino-kabinenbesuch-sofortige-ausreise",
-          "image": "https://www.srf.ch/static/cms/images/320ws/0f89aa.webp"
+          "title": "Auslosung Champions League Thun trifft auf den kroatischen Meister Thun bekommt es in der 2. Qualifikations-Runde der Champions League mit dem kroatischen Meister Dinamo Zagreb zu tun.",
+          "url": "https://www.srf.ch/sport/fussball/champions-league/auslosung-champions-league-thun-trifft-auf-den-kroatischen-meister",
+          "image": "https://www.srf.ch/static/cms/images/320ws/2b42817.webp"
         },
         {
-          "title": "Internationale Fussball-News Toppmöller heuert in Lens an",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-toppmoeller-heuert-in-lens-an",
-          "image": "https://www.srf.ch/static/cms/images/320ws/a2c93ca.webp"
+          "title": "Mutmassliche Täter fliehen Südkoreas Training ausspioniert? Drohne zum Absturz gebracht Vor dem wichtigen WM-Spiel gegen Co-Gastgeber Mexiko sorgt eine Drohne im Trainingscamp von Südkorea für Wirbel.",
+          "url": "https://www.srf.ch/sport/fussball/fifa-wm-2026/mutmassliche-taeter-fliehen-suedkoreas-training-ausspioniert-drohne-zum-absturz-gebracht",
+          "image": "https://www.srf.ch/static/cms/images/320ws/92f57c2.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
-          "title": "Gemeinsamer Start im Doppel Williams-Schwestern wollen in Wimbledon die Zeit zurückdrehen Die US-Tennis-Legenden Serena und Venus Williams lassen ihre Doppel-Partnerschaft in Wimbledon wieder aufleben.",
-          "url": "https://www.srf.ch/sport/tennis/grand-slam-turniere/gemeinsamer-start-im-doppel-williams-schwestern-wollen-in-wimbledon-die-zeit-zurueckdrehen",
-          "image": "https://www.srf.ch/static/cms/images/320ws/c7b206.webp"
+          "title": "News aus dem Tennis Golubic feiert gegen Kenin 2. Sieg innert 3 Tagen – Masarova out",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-golubic-feiert-gegen-kenin-2-sieg-innert-3-tagen-masarova-out",
+          "image": "https://www.srf.ch/static/cms/images/320ws/878b0a.webp"
         },
         {
-          "title": "News aus dem Tennis Montgomery kampflos zum 1. Turniersieg",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-montgomery-kampflos-zum-1-turniersieg",
-          "image": "https://www.srf.ch/static/cms/images/320ws/69b2b6.webp"
+          "title": "Dank Wildcard bei Rasen-Major Wawrinka kommt zur erhofften Wimbledon-Dernière Stan Wawrinka wird ein letztes Mal in Wimbledon aufschlagen. Der Romand erhält von den Organisatoren eine Wildcard.",
+          "url": "https://www.srf.ch/sport/tennis/grand-slam-turniere/dank-wildcard-bei-rasen-major-wawrinka-kommt-zur-erhofften-wimbledon-derniere",
+          "image": "https://www.srf.ch/static/cms/images/320ws/ad6631.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Nach erfolgreicher Testphase Lea Fischer wechselt vom Langlauf zum Biathlon Die bisherige Langläuferin Lea Fischer entscheidet sich nach 73 Weltcup-Einsätzen dazu, künftig im Biathlon zu starten.",
-          "url": "https://www.srf.ch/sport/mehr-sport/biathlon/nach-erfolgreicher-testphase-lea-fischer-wechselt-vom-langlauf-zum-biathlon",
-          "image": "https://www.srf.ch/static/cms/images/320ws/fbc110.webp"
+          "title": "Tour de Suisse der Frauen De Vries holt sich den ersten Profisieg und das Leadertrikot Die 1. Etappe der Tour de Suisse der Frauen wird nach 109 km in Sondrio (ITA) im Zweiersprint entschieden.",
+          "url": "https://www.srf.ch/sport/mehr-sport/rad/tour-de-suisse-der-frauen-de-vries-holt-sich-den-ersten-profisieg-und-das-leadertrikot",
+          "image": "https://www.srf.ch/static/cms/images/320ws/05987c.webp"
         },
         {
-          "title": "Weitere Sport-News Podestplätze für Reiter Fuchs und Kanutin Marx",
-          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-podestplaetze-fuer-reiter-fuchs-und-kanutin-marx",
-          "image": "https://www.srf.ch/static/cms/images/320ws/2bcc64.webp"
+          "title": "News aus dem Radsport Van Aert nicht bei der Tour de France – Caluori zu Movistar",
+          "url": "https://www.srf.ch/sport/mehr-sport/rad/news-aus-dem-radsport-van-aert-nicht-bei-der-tour-de-france-caluori-zu-movistar",
+          "image": "https://www.srf.ch/static/cms/images/320ws/07cfdb.webp"
         }
       ]
     }
