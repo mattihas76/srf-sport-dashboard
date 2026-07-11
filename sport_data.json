@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10.07.2026 09:40",
+  "lastUpdated": "11.07.2026 08:00",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Nach Aus gegen Frankreich Marokko richtet die Augen bereits auf die Heim-WM 2030 Marokko bleibt im WM-Viertelfinal gegen Frankreich chancenlos. Dennoch bleiben Trainer und Spieler optimistisch.",
-          "url": "https://www.srf.ch/sport/fussball/fifa-wm-2026/nach-aus-gegen-frankreich-marokko-richtet-die-augen-bereits-auf-die-heim-wm-2030",
-          "image": "https://www.srf.ch/static/cms/images/320ws/1d85739.webp"
+          "title": "12 Jahre nach Fehlschuss Dzemaili: «Auch für mich wäre eine Revanche eine Genugtuung» Vor 12 Jahren schied die Schweiz gegen Argentinien im Achtelfinal aus. Der tragische Held Blerim Dzemaili blickt zurück.",
+          "url": "https://www.srf.ch/sport/fussball/fifa-wm-2026/12-jahre-nach-fehlschuss-dzemaili-auch-fuer-mich-waere-eine-revanche-eine-genugtuung",
+          "image": "https://www.srf.ch/static/cms/images/320ws/8f3f8d.webp"
         },
         {
-          "title": "Vor WM-Viertelfinal ESP-BEL Belgien – plötzlich WM-Viertelfinalist Belgien hat an der WM lange Zeit nicht überzeugt. Doch seit die Stars nicht mehr erste Wahl sind, läuft es.",
-          "url": "https://www.srf.ch/sport/fussball/fifa-wm-2026/vor-wm-viertelfinal-esp-bel-belgien-ploetzlich-wm-viertelfinalist",
-          "image": "https://www.srf.ch/static/cms/images/320ws/8d65b4.webp"
+          "title": "Belgiens unglückliches WM-Aus Nach «letztem Hurra»: Riesige Enttäuschung bei Courtois und Co. Die «Goldene Generation» Belgiens kam bei der WM noch einmal weit. Doch nun steht wohl ein Umbruch an.",
+          "url": "https://www.srf.ch/sport/fussball/fifa-wm-2026/belgiens-unglueckliches-wm-aus-nach-letztem-hurra-riesige-enttaeuschung-bei-courtois-und-co",
+          "image": "https://www.srf.ch/static/cms/images/320ws/6d1963.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
+          "title": "Kanadierin übernimmt Auf Muller folgt Miller: Frauen-Nati hat neuen Coach Die Kanadierin Shannon Miller beerbt Colin Muller als Coach des Schweizer Frauen-Nationalteams.",
+          "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/kanadierin-uebernimmt-auf-muller-folgt-miller-frauen-nati-hat-neuen-coach",
+          "image": "https://www.srf.ch/static/cms/images/320ws/7451368.webp"
+        },
+        {
           "title": "Nach Heim-WM Berra erklärt Rücktritt aus der Schweizer Nati Reto Berra beendet seine Karriere in der Schweizer Nationalmannschaft.",
           "url": "https://www.srf.ch/sport/eishockey/nationalmannschaft/nach-heim-wm-berra-erklaert-ruecktritt-aus-der-schweizer-nati",
           "image": "https://www.srf.ch/static/cms/images/320ws/65aaf9.webp"
-        },
-        {
-          "title": "News aus der National League Klotens Steiner fällt lange aus – Schlumpf kommt",
-          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-klotens-steiner-faellt-lange-aus-schlumpf-kommt",
-          "image": "https://www.srf.ch/static/cms/images/320ws/7718a84.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
-          "title": "Wimbledon: Halbfinal Frauen Tschechischer Final: Noskova bezwingt Kostjuk in 2 Sätzen Linda Noskova (CZE/WTA 12) zieht dank einem 6:4, 6:4-Sieg gegen Marta Kostjuk (UKR/WTA 13) in den Wimbledon-Final ein.",
-          "url": "https://www.srf.ch/sport/tennis/wta-tour/wimbledon-halbfinal-frauen-tschechischer-final-noskova-bezwingt-kostjuk-in-2-saetzen",
-          "image": "https://www.srf.ch/static/cms/images/320ws/75676a1.webp"
+          "title": "Wimbledon: Halbfinal Männer Sinner zerschmettert Djokovics Traum vom 25. Grand-Slam-Titel Titelverteidiger Jannik Sinner lässt Novak Djokovic im Halbfinal in 3 Sätzen keine Chance und zieht in den Final ein.",
+          "url": "https://www.srf.ch/sport/tennis/grand-slam-turniere/wimbledon-halbfinal-maenner-sinner-zerschmettert-djokovics-traum-vom-25-grand-slam-titel",
+          "image": "https://www.srf.ch/static/cms/images/320ws/fb16cf.webp"
         },
         {
-          "title": "Wimbledon: Halbfinal Frauen Hochklassig und dramatisch zugleich: Muchova bodigt Gauff Sieg im Match-Tiebreak: Karolina Muchova besiegt Coco Gauff und steht erstmals in ihrer Karriere im Wimbledon-Final.",
-          "url": "https://www.srf.ch/sport/tennis/grand-slam-turniere/wimbledon-halbfinal-frauen-hochklassig-und-dramatisch-zugleich-muchova-bodigt-gauff",
-          "image": "https://www.srf.ch/static/cms/images/320ws/900658.webp"
+          "title": "Wimbledon: Halbfinal Männer Auf Beckers Spuren: Zverev beendet «Ferytale» und steht im Final French-Open-Sieger Alexander Zverev zieht nach einem souveränen 3-Satzsieg zum 2. Mal in Folge in einen Major-Final ein.",
+          "url": "https://www.srf.ch/sport/tennis/grand-slam-turniere/wimbledon-halbfinal-maenner-auf-beckers-spuren-zverev-beendet-ferytale-und-steht-im-final",
+          "image": "https://www.srf.ch/static/cms/images/320ws/b123bcd.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Zwei Tage lang Leader Nach Sturz im Leadertrikot: Träen muss die Tour aufgeben Nach zwei Etappen in Gelb und einem folgenschweren Sturz ist die Frankreich-Rundfahrt für den Norweger vorbei.",
-          "url": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/zwei-tage-lang-leader-nach-sturz-im-leadertrikot-traeen-muss-die-tour-aufgeben",
-          "image": "https://www.srf.ch/static/cms/images/320ws/c0be3f.webp"
+          "title": "MTB-Weltcup in Andorra Podest-Serie der Schweizerinnen im Short Track geht weiter Ronja Blöchlinger wird beim Weltcup in Andorra Dritte. Die Schweizer Männer verpassen eine Top-Klassierung.",
+          "url": "https://www.srf.ch/sport/mehr-sport/rad/mountainbike/mtb-weltcup-in-andorra-podest-serie-der-schweizerinnen-im-short-track-geht-weiter",
+          "image": "https://www.srf.ch/static/cms/images/320ws/47cd45.webp"
         },
         {
-          "title": "News aus den US Sports 21-jähriger Carlsson ist neu der bestbezahlte NHL-Spieler",
-          "url": "https://www.srf.ch/sport/mehr-sport/news-aus-den-us-sports-21-jaehriger-carlsson-ist-neu-der-bestbezahlte-nhl-spieler",
-          "image": "https://www.srf.ch/static/cms/images/320ws/2825a3.webp"
+          "title": "Weitere Sport-News Schweiz holt Nationenpreis-Sieg im Stechen",
+          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-schweiz-holt-nationenpreis-sieg-im-stechen",
+          "image": "https://www.srf.ch/static/cms/images/320ws/2c2abf.webp"
         }
       ]
     }
