@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22.07.2026 08:33",
+  "lastUpdated": "23.07.2026 08:34",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "«Brauchen keine grossen Namen» Wieso das Thuner System trotz Umbruch weiter funktioniert 1:1 im Quali-Hinspiel gegen den Favoriten: Thun ist in der Champions League auch dank der Klub-DNA auf Kurs.",
-          "url": "https://www.srf.ch/sport/fussball/champions-league/brauchen-keine-grossen-namen-wieso-das-thuner-system-trotz-umbruch-weiter-funktioniert",
-          "image": "https://www.srf.ch/static/cms/images/320ws/6fb2c3.webp"
+          "title": "Major League Soccer Lewandowskis USA-Debüt misslingt, Griezmann trifft bei Sieg Nach der WM begannen einige Stars ihren Karriereherbst in den USA. Mit gemischten Resultaten.",
+          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/major-league-soccer-lewandowskis-usa-debuet-misslingt-griezmann-trifft-bei-sieg",
+          "image": "https://www.srf.ch/static/cms/images/320ws/115940.webp"
         },
         {
-          "title": "SRF-Experte Frei wagt Prognose Magier Koller, Meister YB &amp; GC soll sich «nach unten orientieren» SRF-Fussball-Experte Fabian Frei blickt auf die kommende Super-League-Saison voraus.",
-          "url": "https://www.srf.ch/sport/fussball/super-league/srf-experte-frei-wagt-prognose-magier-koller-meister-yb-gc-soll-sich-nach-unten-orientieren",
-          "image": "https://www.srf.ch/static/cms/images/320ws/bbacb8.webp"
+          "title": "Quali zur Conference League Die formstarken «Brennnesseln» fordern Lugano In der 2. Qualifikationsrunde zur Conference League bekommt es Lugano mit einem kleinen kosovarischen Klub zu tun.",
+          "url": "https://www.srf.ch/sport/fussball/conference-league/quali-zur-conference-league-die-formstarken-brennnesseln-fordern-lugano",
+          "image": "https://www.srf.ch/static/cms/images/320ws/98610ff.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "News aus dem Tennis Waltert scheitert erneut in Runde 1 – auch Feldbausch out",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-waltert-scheitert-erneut-in-runde-1-auch-feldbausch-out",
+          "image": "https://www.srf.ch/static/cms/images/320ws/6876bd.webp"
+        },
+        {
           "title": "News aus dem Tennis Feldbausch mit 1. Sieg auf der ATP-Tour – Wawrinka früh out",
           "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-feldbausch-mit-1-sieg-auf-der-atp-tour-wawrinka-frueh-out",
           "image": "https://www.srf.ch/static/cms/images/320ws/d467693.webp"
-        },
-        {
-          "title": "Einmaliger Gen-Test Tennisspielerinnen müssen sich neu Geschlechtstest unterziehen Linie des IOC: Alle Spielerinnen, die auf der WTA-Tour spielen wollen, müssen einen einmaligen Gen-Test machen.",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/einmaliger-gen-test-tennisspielerinnen-muessen-sich-neu-geschlechtstest-unterziehen",
-          "image": "https://www.srf.ch/static/cms/images/320ws/489c65.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Stream zur Vorstellung geplant Rückkehr nach Miami? Link zu James-PK stiftet Verwirrung Ein Link zur Vorstellung von Superstar LeBron James bei den Miami Heat erregt in der NBA Aufsehen.",
-          "url": "https://www.srf.ch/sport/mehr-sport/basketball/stream-zur-vorstellung-geplant-rueckkehr-nach-miami-link-zu-james-pk-stiftet-verwirrung",
-          "image": "https://www.srf.ch/static/cms/images/320ws/54e13b.webp"
+          "title": "Sportjurist Netzle ordnet ein «IOC-Wille ist klar: Russland soll bei Olympia 2028 dabei sein» Anwalt Stephan Netzle erklärt die Beweggründe für die Reintegration von Russland und Belarus in den Weltsport.",
+          "url": "https://www.srf.ch/sport/mehr-sport/sportjurist-netzle-ordnet-ein-ioc-wille-ist-klar-russland-soll-bei-olympia-2028-dabei-sein",
+          "image": "https://www.srf.ch/static/cms/images/320ws/371741.webp"
         },
         {
-          "title": "Weitere Sport-News Schweizer Kanuten holen WM-Silber",
-          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-schweizer-kanuten-holen-wm-silber",
-          "image": "https://www.srf.ch/static/cms/images/320ws/cf3291.webp"
+          "title": "Tour de France, 17. Etappe Schmid muss sich im Sprint nur Philipsen beugen Mauro Schmid fährt auf der 17. Etappe der Tour de France im Sprint einer grossen Ausreissergruppe auf Rang 2.",
+          "url": "https://www.srf.ch/sport/mehr-sport/rad/tour-de-france-17-etappe-schmid-muss-sich-im-sprint-nur-philipsen-beugen",
+          "image": "https://www.srf.ch/static/cms/images/320ws/b4d17f.webp"
         }
       ]
     }
