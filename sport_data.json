@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23.07.2026 08:34",
+  "lastUpdated": "24.07.2026 08:30",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Major League Soccer Lewandowskis USA-Debüt misslingt, Griezmann trifft bei Sieg Nach der WM begannen einige Stars ihren Karriereherbst in den USA. Mit gemischten Resultaten.",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/major-league-soccer-lewandowskis-usa-debuet-misslingt-griezmann-trifft-bei-sieg",
-          "image": "https://www.srf.ch/static/cms/images/320ws/115940.webp"
+          "title": "Vom Mega- zum Giga-Event Pläne schreiten voran: So sähe die WM mit 64 Teams aus Die Fifa macht kaum ein Geheimnis daraus, dass die WM noch grösser werden soll. Die wichtigsten Fragen und Antworten.",
+          "url": "https://www.srf.ch/sport/fussball/vom-mega-zum-giga-event-plaene-schreiten-voran-so-saehe-die-wm-mit-64-teams-aus",
+          "image": "https://www.srf.ch/static/cms/images/320ws/43dbd82.webp"
         },
         {
-          "title": "Quali zur Conference League Die formstarken «Brennnesseln» fordern Lugano In der 2. Qualifikationsrunde zur Conference League bekommt es Lugano mit einem kleinen kosovarischen Klub zu tun.",
-          "url": "https://www.srf.ch/sport/fussball/conference-league/quali-zur-conference-league-die-formstarken-brennnesseln-fordern-lugano",
-          "image": "https://www.srf.ch/static/cms/images/320ws/98610ff.webp"
+          "title": "Bobadilla, Augustin, Cespedes 3 Namen mit speziellen Geschichten in der Challenge League In der Challenge League trifft man auch auf 3 Spieler, die in ihrer Karriere für grosse Schlagzeilen gesorgt haben.",
+          "url": "https://www.srf.ch/sport/fussball/challenge-league/bobadilla-augustin-cespedes-3-namen-mit-speziellen-geschichten-in-der-challenge-league",
+          "image": "https://www.srf.ch/static/cms/images/320ws/74c275.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
-          "title": "News aus der National League Doch kein Engagement: Agozzino löst Vertrag mit Biel auf",
-          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-doch-kein-engagement-agozzino-loest-vertrag-mit-biel-auf",
-          "image": "https://www.srf.ch/static/cms/images/320ws/460c49.webp"
+          "title": "Spektakel-Wechsel in der NHL Kreis schliesst sich: Kane zurück bei den Chicago Blackhawks Nach drei Saisons in Detroit holen die Chicago Blackhawks «ihren» Superstar Patrick Kane im Alter von 37 Jahren zurück.",
+          "url": "https://www.srf.ch/sport/eishockey/nhl/spektakel-wechsel-in-der-nhl-kreis-schliesst-sich-kane-zurueck-bei-den-chicago-blackhawks",
+          "image": "https://www.srf.ch/static/cms/images/320ws/6abd339.webp"
         },
         {
-          "title": "Vor über 60&#039;000 Fans? Eishockey-Nati bestreitet WM-Eröffnungsspiel auf Schalke Die Schweiz bekommt es zum Auftakt der Eishockey-WM 2027 mit Deutschland zu tun. Die Kulisse wird gross.",
-          "url": "https://www.srf.ch/sport/eishockey/wm/vor-ueber-60-000-fans-eishockey-nati-bestreitet-wm-eroeffnungsspiel-auf-schalke",
-          "image": "https://www.srf.ch/static/cms/images/320ws/fc49dc.webp"
+          "title": "News aus der National League NHL-erprobter Stürmer für die Lakers",
+          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-nhl-erprobter-stuermer-fuer-die-lakers",
+          "image": "https://www.srf.ch/static/cms/images/320ws/f7f409.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "Challenger-Turnier in Zug Abtretender Hüsler, Stricker und Dietrich stehen im Viertelfinal Marc-Andrea Hüsler überzeugt bei seinem letzten Turnier als Tennisprofi und trifft jetzt auf Dominic Stricker.",
+          "url": "https://www.srf.ch/sport/tennis/atp-tour/challenger-turnier-in-zug-abtretender-huesler-stricker-und-dietrich-stehen-im-viertelfinal",
+          "image": "https://www.srf.ch/static/cms/images/320ws/931907.webp"
+        },
+        {
           "title": "News aus dem Tennis Waltert scheitert erneut in Runde 1 – auch Feldbausch out",
           "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-waltert-scheitert-erneut-in-runde-1-auch-feldbausch-out",
           "image": "https://www.srf.ch/static/cms/images/320ws/6876bd.webp"
-        },
-        {
-          "title": "News aus dem Tennis Feldbausch mit 1. Sieg auf der ATP-Tour – Wawrinka früh out",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-feldbausch-mit-1-sieg-auf-der-atp-tour-wawrinka-frueh-out",
-          "image": "https://www.srf.ch/static/cms/images/320ws/d467693.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Sportjurist Netzle ordnet ein «IOC-Wille ist klar: Russland soll bei Olympia 2028 dabei sein» Anwalt Stephan Netzle erklärt die Beweggründe für die Reintegration von Russland und Belarus in den Weltsport.",
-          "url": "https://www.srf.ch/sport/mehr-sport/sportjurist-netzle-ordnet-ein-ioc-wille-ist-klar-russland-soll-bei-olympia-2028-dabei-sein",
-          "image": "https://www.srf.ch/static/cms/images/320ws/371741.webp"
+          "title": "Umstrittener Besuch Dodgers gastieren bei Trump – mit drei Ausnahmen Trotz Fan-Protesten sind die Los Angeles Dodgers der Einladung des US-Präsidenten ins Weisse Haus gefolgt.",
+          "url": "https://www.srf.ch/sport/mehr-sport/baseball/umstrittener-besuch-dodgers-gastieren-bei-trump-mit-drei-ausnahmen",
+          "image": "https://www.srf.ch/static/cms/images/320ws/87393f.webp"
         },
         {
-          "title": "Tour de France, 17. Etappe Schmid muss sich im Sprint nur Philipsen beugen Mauro Schmid fährt auf der 17. Etappe der Tour de France im Sprint einer grossen Ausreissergruppe auf Rang 2.",
-          "url": "https://www.srf.ch/sport/mehr-sport/rad/tour-de-france-17-etappe-schmid-muss-sich-im-sprint-nur-philipsen-beugen",
-          "image": "https://www.srf.ch/static/cms/images/320ws/b4d17f.webp"
+          "title": "Weitere Sport-News Marx und Dougoud überzeugend – aber ohne WM-Medaille",
+          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-marx-und-dougoud-ueberzeugend-aber-ohne-wm-medaille",
+          "image": "https://www.srf.ch/static/cms/images/320ws/b65bbb.webp"
         }
       ]
     }
