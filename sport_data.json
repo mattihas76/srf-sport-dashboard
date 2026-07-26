@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25.07.2026 08:09",
+  "lastUpdated": "26.07.2026 08:30",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Challenge League: Saisonstart Spätes Joker-Drama: Winterthur und Yverdon trennen sich 2:2 Erst geht Yverdon in Winterthur dank 2 Joker-Toren spät in Front, ehe ein FCW-Einwechselspieler zum Ausgleich trifft.",
-          "url": "https://www.srf.ch/sport/fussball/challenge-league/challenge-league-saisonstart-spaetes-joker-drama-winterthur-und-yverdon-trennen-sich-2-2",
-          "image": "https://www.srf.ch/static/cms/images/320ws/0388871.webp"
+          "title": "3:1 zum Auftakt Meisterliche Thuner Standards brechen FCL das Genick Thun gewinnt zum Saisonauftakt mit 3:1 beim FC Luzern. Entscheidend sind 3 Standard-Aktionen.",
+          "url": "https://www.srf.ch/sport/fussball/super-league/3-1-zum-auftakt-meisterliche-thuner-standards-brechen-fcl-das-genick",
+          "image": "https://www.srf.ch/static/cms/images/320ws/1c401c.webp"
         },
         {
-          "title": "Soll am 8. Oktober stattfinden Nach Skandal-Final beim Afrika Cup: TAS setzt Anhörung an Derzeit ist Marokko der offizielle Sieger des vergangenen Afrika Cups. Aber bleibt das auch so?",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/soll-am-8-oktober-stattfinden-nach-skandal-final-beim-afrika-cup-tas-setzt-anhoerung-an",
-          "image": "https://www.srf.ch/static/cms/images/320ws/f0e084b.webp"
+          "title": "1. Runde der Super League Celar trifft vom Punkt: Geglückter Saisonstart für Basel in Genf Der FCB entführt drei Punkte aus Genf. Neuzugang Zan Celar ist gegen Servette der einzige Torschütze.",
+          "url": "https://www.srf.ch/sport/fussball/super-league/1-runde-der-super-league-celar-trifft-vom-punkt-geglueckter-saisonstart-fuer-basel-in-genf",
+          "image": "https://www.srf.ch/static/cms/images/320ws/b45e9a1.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
+          "title": "News aus dem Eishockey Schmid und Panthers einigen sich auf Zweijahresvertrag",
+          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-dem-eishockey-schmid-und-panthers-einigen-sich-auf-zweijahresvertrag",
+          "image": "https://www.srf.ch/static/cms/images/320ws/73854e.webp"
+        },
+        {
           "title": "Spektakel-Wechsel in der NHL Kreis schliesst sich: Kane zurück bei den Chicago Blackhawks Nach drei Saisons in Detroit holen die Chicago Blackhawks «ihren» Superstar Patrick Kane im Alter von 37 Jahren zurück.",
           "url": "https://www.srf.ch/sport/eishockey/nhl/spektakel-wechsel-in-der-nhl-kreis-schliesst-sich-kane-zurueck-bei-den-chicago-blackhawks",
           "image": "https://www.srf.ch/static/cms/images/320ws/6abd339.webp"
-        },
-        {
-          "title": "News aus der National League NHL-erprobter Stürmer für die Lakers",
-          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-nhl-erprobter-stuermer-fuer-die-lakers",
-          "image": "https://www.srf.ch/static/cms/images/320ws/f7f409.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "Challenger-Turnier in Zug Hüsler spielt zum Karriere-Abschluss um den Titel Marc-Andrea Hüsler erreicht beim Challenger-Turnier in Zug den Final. Dort wartet der Bezwinger von Dylan Dietrich.",
+          "url": "https://www.srf.ch/sport/tennis/atp-tour/challenger-turnier-in-zug-huesler-spielt-zum-karriere-abschluss-um-den-titel",
+          "image": "https://www.srf.ch/static/cms/images/320ws/d4a81fe.webp"
+        },
+        {
           "title": "News aus dem Tennis Nach Alcaraz lassen auch Sinner und Djokovic Montreal aus",
           "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-nach-alcaraz-lassen-auch-sinner-und-djokovic-montreal-aus",
           "image": "https://www.srf.ch/static/cms/images/320ws/cfe3c6.webp"
-        },
-        {
-          "title": "Challenger-Turnier in Zug Hüsler verlängert seine Karriere dank Blitz-Sieg gegen Stricker Marc-Andrea Hüsler gewinnt das Schweizer Duell gegen Dominic Stricker bei seinem letzten Tennisturnier der Karriere.",
-          "url": "https://www.srf.ch/sport/tennis/atp-tour/challenger-turnier-in-zug-huesler-verlaengert-seine-karriere-dank-blitz-sieg-gegen-stricker",
-          "image": "https://www.srf.ch/static/cms/images/320ws/7cd710.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Brünig-Schwinget am Sonntag Die Bergfeste und die grosse Frage der Gäste Auf dem Brünig kommt es zum Kräftemessen der grössten Verbände. Wer das festlegt und was der Bergfestverteiler ist.",
-          "url": "https://www.srf.ch/sport/mehr-sport/schwingen/bruenig-schwinget-am-sonntag-die-bergfeste-und-die-grosse-frage-der-gaeste",
-          "image": "https://www.srf.ch/static/cms/images/320ws/f287589.webp"
+          "title": "Nach Unfall im Dezember Joshua feiert erfolgreiches Comeback Mehr als ein halbes Jahr nach einem folgenschweren Unfall in Nigeria kehrte Anthony Joshua in den Ring zurück.",
+          "url": "https://www.srf.ch/sport/mehr-sport/boxen/nach-unfall-im-dezember-joshua-feiert-erfolgreiches-comeback",
+          "image": "https://www.srf.ch/static/cms/images/320ws/26606b0.webp"
         },
         {
-          "title": "Brünig-Schwinget am Sonntag Starke NOSV-Schwinger – doch Staudenmann ist auf einer Mission Auf dem Brünig findet am Sonntag das zweitletzte Bergfest der Saison statt. Die Innerschweizer sind nur Aussenseiter.",
-          "url": "https://www.srf.ch/sport/mehr-sport/schwingen/bruenig-schwinget-am-sonntag-starke-nosv-schwinger-doch-staudenmann-ist-auf-einer-mission",
-          "image": "https://www.srf.ch/static/cms/images/320ws/910748c.webp"
+          "title": "Kanu-Slalom-WM in den USA Alena Marx wird Weltmeisterin – Bruder Dimitri holt Silber An der Kanu-Slalom-WM in Oklahoma City holt die Schweiz im Kajak-Cross gleich zwei Medaillen.",
+          "url": "https://www.srf.ch/sport/mehr-sport/kanu-slalom-wm-in-den-usa-alena-marx-wird-weltmeisterin-bruder-dimitri-holt-silber",
+          "image": "https://www.srf.ch/static/cms/images/320ws/5c1c6d.webp"
         }
       ]
     }
