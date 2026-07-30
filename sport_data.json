@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29.07.2026 08:44",
+  "lastUpdated": "30.07.2026 08:31",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Nach IFAB-Stellungnahme Fifa wehrt sich im Fall Embolo: «Entscheidung zulässig» Die obersten Regelhüter taxierten den Platzverweis von Embolo an der WM als unzulässig. Nun widerspricht die Fifa.",
-          "url": "https://www.srf.ch/sport/fussball/nach-ifab-stellungnahme-fifa-wehrt-sich-im-fall-embolo-entscheidung-zulaessig",
-          "image": "https://www.srf.ch/static/cms/images/320ws/afbb14a.webp"
+          "title": "Nach 13 Monaten Leidenszeit Erster YB-Einsatz: Bachmann mit emotionalem Comeback Die Schweizer Natispielerin stand nach einer langen Verletzungspause erstmals bei einem Testspiel wieder auf dem Platz.",
+          "url": "https://www.srf.ch/sport/fussball/women-s-super-league/nach-13-monaten-leidenszeit-erster-yb-einsatz-bachmann-mit-emotionalem-comeback",
+          "image": "https://www.srf.ch/static/cms/images/320ws/27b4a8.webp"
         },
         {
-          "title": "Strittige Szene in Zagreb «Maximal unfair»: Thuner Ärger nach Rot und Out in CL-Quali Nach dem 2:3 n.V. bei Dinamo Zagreb gab auf Thuner Seite vor allem der Platzverweis gegen Marco Bürki zu reden.",
-          "url": "https://www.srf.ch/sport/fussball/champions-league/strittige-szene-in-zagreb-maximal-unfair-thuner-aerger-nach-rot-und-out-in-cl-quali",
-          "image": "https://www.srf.ch/static/cms/images/320ws/09b8af8.webp"
+          "title": "Europa-League-Quali: 2. Runde Nach Hinspiel-Coup: St. Gallen kann in Lissabon fast nur gewinnen Die Vorzeichen bleiben trotz St. Gallens Hinspiel-Sieg unverändert. Benfica ist haushoher Favorit, noch mehr zu Hause.",
+          "url": "https://www.srf.ch/sport/fussball/europa-league/europa-league-quali-2-runde-nach-hinspiel-coup-st-gallen-kann-in-lissabon-fast-nur-gewinnen",
+          "image": "https://www.srf.ch/static/cms/images/320ws/cd6d8c.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
+          "title": "Rekordvertrag in der NHL San Jose macht Celebrini zum bestbezahlten Spieler aller Zeiten Youngster Macklin Celebrini unterschreibt bei den San Jose Sharks einen neuen NHL-Vertrag über 94 Millionen Dollar.",
+          "url": "https://www.srf.ch/sport/eishockey/nhl/rekordvertrag-in-der-nhl-san-jose-macht-celebrini-zum-bestbezahlten-spieler-aller-zeiten",
+          "image": "https://www.srf.ch/static/cms/images/320ws/39683b.webp"
+        },
+        {
           "title": "News aus der National League Ein NHL-Verteidiger für den EVZ",
           "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-ein-nhl-verteidiger-fuer-den-evz",
           "image": "https://www.srf.ch/static/cms/images/320ws/14b7b8.webp"
-        },
-        {
-          "title": "News aus der National League Lugano holt US-Stürmer Shore in die Schweiz zurück",
-          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-lugano-holt-us-stuermer-shore-in-die-schweiz-zurueck",
-          "image": "https://www.srf.ch/static/cms/images/320ws/ad23709.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Mountainbike-EM in Monteceneri Wieder Heimspiele: Das Wallis reicht den Stab ans Tessin weiter Die Schweiz beherbergt die nächsten internationalen Mountainbike-Titelkämpfe: vom 30. Juli bis 2. August die EM.",
-          "url": "https://www.srf.ch/sport/mehr-sport/schwimmen/mountainbike-em-in-monteceneri-wieder-heimspiele-das-wallis-reicht-den-stab-ans-tessin-weiter",
-          "image": "https://www.srf.ch/static/cms/images/320ws/3e6659.webp"
+          "title": "Schwimm-EM: Prolog in Paris 13 Schweizerinnen und Schweizer machen den Auftakt Die 38. Kontinental-Titelkämpfe vom 31. Juli bis 16. August haben immense Dimensionen. Vorerst geht es in 4 Sparten los.",
+          "url": "https://www.srf.ch/sport/mehr-sport/schwimmen/schwimm-em-prolog-in-paris-13-schweizerinnen-und-schweizer-machen-den-auftakt",
+          "image": "https://www.srf.ch/static/cms/images/320ws/8e0d3e.webp"
         },
         {
-          "title": "Letztes Major der Saison Tamburlini und die guten Erinnerungen ans British Open Von Donnerstag bis Sonntag geht das fünfte Golf-Major bei den Frauen über die Bühne. Mit dabei: Chiara Tamburlini.",
-          "url": "https://www.srf.ch/sport/mehr-sport/golf/letztes-major-der-saison-tamburlini-und-die-guten-erinnerungen-ans-british-open",
-          "image": "https://www.srf.ch/static/cms/images/320ws/db40cc7.webp"
+          "title": "Weitere Sport-News Jets-Captain Metzger wechselt in die NLB",
+          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-jets-captain-metzger-wechselt-in-die-nlb",
+          "image": "https://www.srf.ch/static/cms/images/320ws/1426d9.webp"
         }
       ]
     }
