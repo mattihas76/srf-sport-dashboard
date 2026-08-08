@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07.08.2026 07:19",
+  "lastUpdated": "08.08.2026 06:57",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Europa League: 3. Quali-Runde Starke Standards lassen Thun von Europa träumen Der Schweizer Meister legt im Hinspiel der Europa-League-Qualifikation mit 3:0 gegen Vikingur Reykjavik aus Island vor.",
-          "url": "https://www.srf.ch/sport/fussball/europa-league/europa-league-3-quali-runde-starke-standards-lassen-thun-von-europa-traeumen",
-          "image": "https://www.srf.ch/static/cms/images/320ws/1cdbe54.webp"
+          "title": "SRF-Live-Spiel der 3. Runde GC kommt Servette gerade recht Servette und GC ist der Start in der Super League missglückt. Im Direktduell winkt am Samstag für beide der erste Sieg.",
+          "url": "https://www.srf.ch/sport/fussball/super-league/srf-live-spiel-der-3-runde-gc-kommt-servette-gerade-recht",
+          "image": "https://www.srf.ch/static/cms/images/320ws/579d2fb.webp"
         },
         {
-          "title": "Von LaLiga in die Serie A Sow verlässt den FC Sevilla nach 3 Jahren und geht nach Genua Nati-Spieler und WM-Fahrer Djibril Sow wagt ein neues Abenteuer und wechselt erstmals in die italienische Serie A.",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/von-laliga-in-die-serie-a-sow-verlaesst-den-fc-sevilla-nach-3-jahren-und-geht-nach-genua",
-          "image": "https://www.srf.ch/static/cms/images/320ws/52e178.webp"
+          "title": "Challenge League: 3. Spieltag Winterthur feiert den 1. Saisonsieg – auch Aarau jubelt erstmals Die Winterthurer fertigen Wil zu Hause mit 5:0 ab. Die Aarauer gewinnen vor heimischem Publikum gegen Stade Nyonnais.",
+          "url": "https://www.srf.ch/sport/fussball/challenge-league/challenge-league-3-spieltag-winterthur-feiert-den-1-saisonsieg-auch-aarau-jubelt-erstmals",
+          "image": "https://www.srf.ch/static/cms/images/320ws/d6e41a.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "WTA-1000-Turnier in Toronto Bencic nach hartem Kampf im Achtelfinal Die Schweizerin schlägt Taylor Townsend aus den USA in drei Sätzen. Nun trifft sie auf Alexandra Eala.",
+          "url": "https://www.srf.ch/sport/tennis/wta-tour/wta-1000-turnier-in-toronto-bencic-nach-hartem-kampf-im-achtelfinal",
+          "image": "https://www.srf.ch/static/cms/images/320ws/99eeb97.webp"
+        },
+        {
           "title": "WTA-Turnier in Toronto Golubic kommt gegen Swiatek unter die Räder Für Viktorija Golubic bedeutet die 3. Runde beim WTA-1000-Turnier in Toronto Endstation.",
           "url": "https://www.srf.ch/sport/tennis/wta-tour/wta-turnier-in-toronto-golubic-kommt-gegen-swiatek-unter-die-raeder",
           "image": "https://www.srf.ch/static/cms/images/320ws/c17cd0.webp"
-        },
-        {
-          "title": "News aus dem Tennis Topgesetzter Zverev in Montreal schon out",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-topgesetzter-zverev-in-montreal-schon-out",
-          "image": "https://www.srf.ch/static/cms/images/320ws/5347a0.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Tour de France Femmes «Berg des Schreckens»: Königsetappe verspricht Spektakel Mit der Bergankunft auf dem legendären Mont Ventoux erreicht die Tour de France Femmes am Freitag ihren Höhepunkt.",
-          "url": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-berg-des-schreckens-koenigsetappe-verspricht-spektakel",
-          "image": "https://www.srf.ch/static/cms/images/320ws/edc9e7.webp"
+          "title": "Weitere Sport-News Schweizer Springreiter in Dublin auf Platz 3",
+          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-schweizer-springreiter-in-dublin-auf-platz-3",
+          "image": "https://www.srf.ch/static/cms/images/320ws/ebda05.webp"
         },
         {
-          "title": "Tour de France Femmes Le Court holt den Tagessieg, Reusser bleibt in Gelb Im Sprint einer kleinen Spitzengruppe sichert sich Kim Le Court aus Mauritius den Sieg auf der 6. Etappe der TdF.",
-          "url": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-le-court-holt-den-tagessieg-reusser-bleibt-in-gelb",
-          "image": "https://www.srf.ch/static/cms/images/320ws/26955d.webp"
+          "title": "Tour de France Femmes Niewiadoma brilliert am Mont Ventoux und schnappt sich Gelb Katarzyna Niewiadoma gewinnt die 7. Etappe der Tour de France und schnappt Marlen Reusser das Gelbe Trikot weg.",
+          "url": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-niewiadoma-brilliert-am-mont-ventoux-und-schnappt-sich-gelb",
+          "image": "https://www.srf.ch/static/cms/images/320ws/124f37.webp"
         }
       ]
     }
