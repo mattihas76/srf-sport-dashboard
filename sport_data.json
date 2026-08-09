@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "08.08.2026 06:57",
+  "lastUpdated": "09.08.2026 07:00",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "SRF-Live-Spiel der 3. Runde GC kommt Servette gerade recht Servette und GC ist der Start in der Super League missglückt. Im Direktduell winkt am Samstag für beide der erste Sieg.",
-          "url": "https://www.srf.ch/sport/fussball/super-league/srf-live-spiel-der-3-runde-gc-kommt-servette-gerade-recht",
-          "image": "https://www.srf.ch/static/cms/images/320ws/579d2fb.webp"
+          "title": "Super League: 3. Spieltag Abrashi trifft, doch GC verliert erneut nach einer 1:0-Führung Die Grasshoppers unterliegen in Unterzahl bei Servette mit 1:2 – trotz früher Führung dank Captain Amir Abrashi.",
+          "url": "https://www.srf.ch/sport/fussball/super-league/super-league-3-spieltag-abrashi-trifft-doch-gc-verliert-erneut-nach-einer-1-0-fuehrung",
+          "image": "https://www.srf.ch/static/cms/images/320ws/84c607.webp"
         },
         {
-          "title": "Challenge League: 3. Spieltag Winterthur feiert den 1. Saisonsieg – auch Aarau jubelt erstmals Die Winterthurer fertigen Wil zu Hause mit 5:0 ab. Die Aarauer gewinnen vor heimischem Publikum gegen Stade Nyonnais.",
-          "url": "https://www.srf.ch/sport/fussball/challenge-league/challenge-league-3-spieltag-winterthur-feiert-den-1-saisonsieg-auch-aarau-jubelt-erstmals",
-          "image": "https://www.srf.ch/static/cms/images/320ws/d6e41a.webp"
+          "title": "Super League: 3. Runde Nach Fernandes-Rot: YB gibt in Lausanne 2:0-Führung aus der Hand Die Berner lassen im 3. Spiel der Saison erstmals Punkte liegen. Ein spätes Tor von Lausanne macht das 2:2-Remis klar.",
+          "url": "https://www.srf.ch/sport/fussball/super-league/super-league-3-runde-nach-fernandes-rot-yb-gibt-in-lausanne-2-0-fuehrung-aus-der-hand",
+          "image": "https://www.srf.ch/static/cms/images/320ws/670861.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "News aus dem Tennis Sabalenka unterliegt überraschend Alexandrowa",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-sabalenka-unterliegt-ueberraschend-alexandrowa",
+          "image": "https://www.srf.ch/static/cms/images/320ws/df7a17.webp"
+        },
+        {
           "title": "WTA-1000-Turnier in Toronto Bencic nach hartem Kampf im Achtelfinal Die Schweizerin schlägt Taylor Townsend aus den USA in drei Sätzen. Nun trifft sie auf Alexandra Eala.",
           "url": "https://www.srf.ch/sport/tennis/wta-tour/wta-1000-turnier-in-toronto-bencic-nach-hartem-kampf-im-achtelfinal",
           "image": "https://www.srf.ch/static/cms/images/320ws/99eeb97.webp"
-        },
-        {
-          "title": "WTA-Turnier in Toronto Golubic kommt gegen Swiatek unter die Räder Für Viktorija Golubic bedeutet die 3. Runde beim WTA-1000-Turnier in Toronto Endstation.",
-          "url": "https://www.srf.ch/sport/tennis/wta-tour/wta-turnier-in-toronto-golubic-kommt-gegen-swiatek-unter-die-raeder",
-          "image": "https://www.srf.ch/static/cms/images/320ws/c17cd0.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Weitere Sport-News Schweizer Springreiter in Dublin auf Platz 3",
-          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-schweizer-springreiter-in-dublin-auf-platz-3",
-          "image": "https://www.srf.ch/static/cms/images/320ws/ebda05.webp"
+          "title": "Tour de France Femmes Vollering jubelt über 2. Etappensieg und erstmalige Gesamtführung Demi Vollering gewinnt die 8. und längste Etappe der Tour de France Femmes. Marlen Reusser verliert viel Zeit.",
+          "url": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-vollering-jubelt-ueber-2-etappensieg-und-erstmalige-gesamtfuehrung",
+          "image": "https://www.srf.ch/static/cms/images/320ws/ca773a.webp"
         },
         {
-          "title": "Tour de France Femmes Niewiadoma brilliert am Mont Ventoux und schnappt sich Gelb Katarzyna Niewiadoma gewinnt die 7. Etappe der Tour de France und schnappt Marlen Reusser das Gelbe Trikot weg.",
-          "url": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-niewiadoma-brilliert-am-mont-ventoux-und-schnappt-sich-gelb",
-          "image": "https://www.srf.ch/static/cms/images/320ws/124f37.webp"
+          "title": "OL-Weltcup in Tschechien Sieg in der Mitteldistanz: Aebersold baut Weltcupführung aus Simona Aebersold doppelt beim Weltcup in Tschechien nach und siegt auch über die Mitteldistanz.",
+          "url": "https://www.srf.ch/sport/mehr-sport/orientierungslauf/ol-weltcup-in-tschechien-sieg-in-der-mitteldistanz-aebersold-baut-weltcupfuehrung-aus",
+          "image": "https://www.srf.ch/static/cms/images/320ws/cfa685.webp"
         }
       ]
     }
