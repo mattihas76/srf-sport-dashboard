@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09.08.2026 07:00",
+  "lastUpdated": "10.08.2026 07:46",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Super League: 3. Spieltag Abrashi trifft, doch GC verliert erneut nach einer 1:0-Führung Die Grasshoppers unterliegen in Unterzahl bei Servette mit 1:2 – trotz früher Führung dank Captain Amir Abrashi.",
-          "url": "https://www.srf.ch/sport/fussball/super-league/super-league-3-spieltag-abrashi-trifft-doch-gc-verliert-erneut-nach-einer-1-0-fuehrung",
-          "image": "https://www.srf.ch/static/cms/images/320ws/84c607.webp"
+          "title": "Ex-GC-Stürmer in Antwerpen Rückkehr mit Fallrückzieher: Frey dreht Spiel mit Doppelpack Im Sommer kehrte Michael Frey zu Antwerpen in die belgische Liga zurück. Im 1. Spiel sorgt er mit 2 Toren für den Sieg.",
+          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/ex-gc-stuermer-in-antwerpen-rueckkehr-mit-fallrueckzieher-frey-dreht-spiel-mit-doppelpack",
+          "image": "https://www.srf.ch/static/cms/images/320ws/0f1d0f.webp"
         },
         {
-          "title": "Super League: 3. Runde Nach Fernandes-Rot: YB gibt in Lausanne 2:0-Führung aus der Hand Die Berner lassen im 3. Spiel der Saison erstmals Punkte liegen. Ein spätes Tor von Lausanne macht das 2:2-Remis klar.",
-          "url": "https://www.srf.ch/sport/fussball/super-league/super-league-3-runde-nach-fernandes-rot-yb-gibt-in-lausanne-2-0-fuehrung-aus-der-hand",
-          "image": "https://www.srf.ch/static/cms/images/320ws/670861.webp"
+          "title": "Internationale Fussball-News Digne kehrt nach 11 Jahren zu PSG zurück",
+          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-digne-kehrt-nach-11-jahren-zu-psg-zurueck",
+          "image": "https://www.srf.ch/static/cms/images/320ws/34434d.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
+          "title": "News aus der National League Per Leihe: EVZ holt Rohrer in die Schweiz zurück",
+          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-per-leihe-evz-holt-rohrer-in-die-schweiz-zurueck",
+          "image": "https://www.srf.ch/static/cms/images/320ws/7b0345.webp"
+        },
+        {
           "title": "News aus der National League Carr schliesst sich Ajoie an",
           "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-carr-schliesst-sich-ajoie-an",
           "image": "https://www.srf.ch/static/cms/images/320ws/e9da48.webp"
-        },
-        {
-          "title": "News aus der National League Zugs Künzle verpasst Saisonstart – Blessing reisst Kreuzband",
-          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-zugs-kuenzle-verpasst-saisonstart-blessing-reisst-kreuzband",
-          "image": "https://www.srf.ch/static/cms/images/320ws/ce2714.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
-          "title": "News aus dem Tennis Sabalenka unterliegt überraschend Alexandrowa",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-sabalenka-unterliegt-ueberraschend-alexandrowa",
-          "image": "https://www.srf.ch/static/cms/images/320ws/df7a17.webp"
+          "title": "6:4, 6:0 in Toronto Bencic fegt Überfliegerin Eala vom Platz Belinda Bencic steht nach einem klaren Sieg über Alexandra Eala im Viertelfinal des WTA-1000-Turniers in Toronto.",
+          "url": "https://www.srf.ch/sport/tennis/wta-tour/6-4-6-0-in-toronto-bencic-fegt-ueberfliegerin-eala-vom-platz",
+          "image": "https://www.srf.ch/static/cms/images/320ws/110f54.webp"
         },
         {
-          "title": "WTA-1000-Turnier in Toronto Bencic nach hartem Kampf im Achtelfinal Die Schweizerin schlägt Taylor Townsend aus den USA in drei Sätzen. Nun trifft sie auf Alexandra Eala.",
-          "url": "https://www.srf.ch/sport/tennis/wta-tour/wta-1000-turnier-in-toronto-bencic-nach-hartem-kampf-im-achtelfinal",
-          "image": "https://www.srf.ch/static/cms/images/320ws/99eeb97.webp"
+          "title": "News aus dem Tennis Sabalenka unterliegt Alexandrowa – Kym erst im Final bezwungen",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-sabalenka-unterliegt-alexandrowa-kym-erst-im-final-bezwungen",
+          "image": "https://www.srf.ch/static/cms/images/320ws/df7a17.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Tour de France Femmes Vollering jubelt über 2. Etappensieg und erstmalige Gesamtführung Demi Vollering gewinnt die 8. und längste Etappe der Tour de France Femmes. Marlen Reusser verliert viel Zeit.",
-          "url": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-vollering-jubelt-ueber-2-etappensieg-und-erstmalige-gesamtfuehrung",
-          "image": "https://www.srf.ch/static/cms/images/320ws/ca773a.webp"
+          "title": "News aus den US Sports Basketball-Welt trauert um Trainerlegende Nelson",
+          "url": "https://www.srf.ch/sport/mehr-sport/news-aus-den-us-sports-basketball-welt-trauert-um-trainerlegende-nelson",
+          "image": "https://www.srf.ch/static/cms/images/320ws/1251c7.webp"
         },
         {
-          "title": "OL-Weltcup in Tschechien Sieg in der Mitteldistanz: Aebersold baut Weltcupführung aus Simona Aebersold doppelt beim Weltcup in Tschechien nach und siegt auch über die Mitteldistanz.",
-          "url": "https://www.srf.ch/sport/mehr-sport/orientierungslauf/ol-weltcup-in-tschechien-sieg-in-der-mitteldistanz-aebersold-baut-weltcupfuehrung-aus",
-          "image": "https://www.srf.ch/static/cms/images/320ws/cfa685.webp"
+          "title": "Tour de France Femmes Vollering gewinnt mit Machtdemonstration die Tour de France Demi Vollering triumphiert zum 2. Mal bei der Tour de France. Marlen Reusser fällt nach einem Sturz vom Podest.",
+          "url": "https://www.srf.ch/sport/mehr-sport/rad/rad-strasse/tour-de-france-femmes-vollering-gewinnt-mit-machtdemonstration-die-tour-de-france",
+          "image": "https://www.srf.ch/static/cms/images/320ws/2eadae.webp"
         }
       ]
     }
