@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11.08.2026 07:11",
+  "lastUpdated": "12.08.2026 07:36",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "News aus der Super League Fernandes kassiert 2 Spielsperren – Lugano holt jungen Usbeken",
-          "url": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-fernandes-kassiert-2-spielsperren-lugano-holt-jungen-usbeken",
-          "image": "https://www.srf.ch/static/cms/images/320ws/dd32569.webp"
+          "title": "Uefa Supercup am Mittwoch Aston Villa will PSG auch ohne Manzambi die Stirn bieten Ohne Manzambi, mit Schiedsrichter Artan: Aston Villa und PSG kämpfen um den ersten Titel der Saison.",
+          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/uefa-supercup-am-mittwoch-aston-villa-will-psg-auch-ohne-manzambi-die-stirn-bieten",
+          "image": "https://www.srf.ch/static/cms/images/320ws/787b1f.webp"
         },
         {
-          "title": "Blick auf das SL-Wochenende Luganos Ansage, Thuns missglückter Spagat und Tore en masse Die dritte Runde der Super League ist Geschichte. Wir haben einige Stories herausgepickt.",
-          "url": "https://www.srf.ch/sport/fussball/super-league/blick-auf-das-sl-wochenende-luganos-ansage-thuns-missglueckter-spagat-und-tore-en-masse",
-          "image": "https://www.srf.ch/static/cms/images/320ws/226ea0.webp"
+          "title": "News aus der Super League YB mehrere Wochen ohne Imeri – ein Youngster für den Meister",
+          "url": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-yb-mehrere-wochen-ohne-imeri-ein-youngster-fuer-den-meister",
+          "image": "https://www.srf.ch/static/cms/images/320ws/0e5858.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "WTA-1000-Turnier in Toronto Hüftprobleme bremsen Bencic aus Die Ostschweizerin gibt wegen Hüftproblemen für den Viertelfinal gegen Coco Gauff in Toronto Forfait.",
+          "url": "https://www.srf.ch/sport/tennis/wta-tour/wta-1000-turnier-in-toronto-hueftprobleme-bremsen-bencic-aus",
+          "image": "https://www.srf.ch/static/cms/images/320ws/7f78c55.webp"
+        },
+        {
           "title": "6:4, 6:0 in Toronto Bencic fegt Überfliegerin Eala vom Platz Belinda Bencic steht nach einem klaren Sieg über Alexandra Eala im Viertelfinal des WTA-1000-Turniers in Toronto.",
           "url": "https://www.srf.ch/sport/tennis/wta-tour/6-4-6-0-in-toronto-bencic-fegt-ueberfliegerin-eala-vom-platz",
           "image": "https://www.srf.ch/static/cms/images/320ws/110f54.webp"
-        },
-        {
-          "title": "News aus dem Tennis Sabalenka unterliegt Alexandrowa – Kym erst im Final bezwungen",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-sabalenka-unterliegt-alexandrowa-kym-erst-im-final-bezwungen",
-          "image": "https://www.srf.ch/static/cms/images/320ws/df7a17.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "EM: Entscheidungen von Tag 1 Gastgeber Frankreich jubelt hinter Briten über Staffel-Silber Die Franzosen gewinnen bei der Heim-EM die 1. Medaille. Bei der Männer- und Frauenstaffel jubelt Grossbritannien.",
-          "url": "https://www.srf.ch/sport/mehr-sport/schwimmen/em-entscheidungen-von-tag-1-gastgeber-frankreich-jubelt-hinter-briten-ueber-staffel-silber",
-          "image": "https://www.srf.ch/static/cms/images/320ws/99485e.webp"
+          "title": "EM: Weitere Finals am 2. Tag Steenbergen erweitert Gold-Sammlung – Martinenghi dreht auf Marrit Steenbergen gewinnt ihren insgesamt 16. EM-Titel. Olympiasieger Nicolo Martinenghi schlägt über 100 m Brust zu.",
+          "url": "https://www.srf.ch/sport/mehr-sport/schwimmen/em-weitere-finals-am-2-tag-steenbergen-erweitert-gold-sammlung-martinenghi-dreht-auf",
+          "image": "https://www.srf.ch/static/cms/images/320ws/8b314f.webp"
         },
         {
-          "title": "Nach der Tour der France Reusser: Enttäuscht, frustriert – und vor allem ratlos Marlen Reusser fiel auf der letzten Etappe noch vom Tour-Podest. Eine Erklärung dafür hat sie nicht.",
-          "url": "https://www.srf.ch/sport/mehr-sport/rad/nach-der-tour-der-france-reusser-enttaeuscht-frustriert-und-vor-allem-ratlos",
-          "image": "https://www.srf.ch/static/cms/images/320ws/146902.webp"
+          "title": "Beide Schweizer brillieren Mityukov und Bucca im EM-Final über 200 m Rücken Am Mittwochabend kämpfen an der Schwimm-EM in Paris gleich zwei Schweizer um die Medaillen über 200 m Rücken.",
+          "url": "https://www.srf.ch/sport/mehr-sport/schwimmen/beide-schweizer-brillieren-mityukov-und-bucca-im-em-final-ueber-200-m-ruecken",
+          "image": "https://www.srf.ch/static/cms/images/320ws/350bb8.webp"
         }
       ]
     }
