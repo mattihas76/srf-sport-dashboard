@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15.08.2026 06:41",
+  "lastUpdated": "16.08.2026 06:43",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Kurz vor Cupspiel Lausanne-Talent erzwingt Abgang – Klub verärgert Der 18-jährige Stürmer Ilija Despotovic verlässt Lausanne-Sport auf eigene Initiative – trotz laufenden Vertrags.",
-          "url": "https://www.srf.ch/sport/fussball/schweizer-cup/kurz-vor-cupspiel-lausanne-talent-erzwingt-abgang-klub-veraergert",
-          "image": "https://www.srf.ch/static/cms/images/320ws/15bd3d.webp"
+          "title": "1. Runde Schweizer Cup YB beweist Geduld – Basel, GC und Servette locker weiter Alle Teams aus der Super League gewinnen am Samstag ihre Auftaktduelle im Schweizer Cup deutlich.",
+          "url": "https://www.srf.ch/sport/fussball/schweizer-cup/1-runde-schweizer-cup-yb-beweist-geduld-basel-gc-und-servette-locker-weiter",
+          "image": "https://www.srf.ch/static/cms/images/320ws/c1c9b4.webp"
         },
         {
-          "title": "Ausblick auf LaLiga-Saison Ab Samstag rollt der Ball – aber nicht für die ewigen Favoriten Der Start zur neuen LaLiga-Saison erfolgt ohne Barcelona und Real Madrid, die aufgrund der WM eine Extrawurst erhalten.",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/ausblick-auf-laliga-saison-ab-samstag-rollt-der-ball-aber-nicht-fuer-die-ewigen-favoriten",
-          "image": "https://www.srf.ch/static/cms/images/320ws/d3b383.webp"
+          "title": "News aus der Super League GC holt Morandi zurück",
+          "url": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-gc-holt-morandi-zurueck",
+          "image": "https://www.srf.ch/static/cms/images/320ws/372a5a.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "News aus dem Tennis Bencic muss nach Startsatz aufgeben – Djokovic bereits out",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-bencic-muss-nach-startsatz-aufgeben-djokovic-bereits-out",
+          "image": "https://www.srf.ch/static/cms/images/320ws/2ad268.webp"
+        },
+        {
           "title": "News aus dem Tennis Golubic übersteht 1. Runde in Cincinnati souverän",
           "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-golubic-uebersteht-1-runde-in-cincinnati-souveraen",
           "image": "https://www.srf.ch/static/cms/images/320ws/6ef81dc.webp"
-        },
-        {
-          "title": "News aus dem Tennis Shelton triumphiert in Montreal, Swiatek in Toronto",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-shelton-triumphiert-in-montreal-swiatek-in-toronto",
-          "image": "https://www.srf.ch/static/cms/images/320ws/147562.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "5. Tag an Schwimm-EM in Paris Popovicis 2. Streich – und zwar zum 3. Mal in Folge Die Delegation von Swiss Aquatics kann am 5. Wettkampftag auf der Langbahn in Saint-Denis keine Akzente setzen.",
-          "url": "https://www.srf.ch/sport/mehr-sport/schwimmen/5-tag-an-schwimm-em-in-paris-popovicis-2-streich-und-zwar-zum-3-mal-in-folge",
-          "image": "https://www.srf.ch/static/cms/images/320ws/24833b.webp"
+          "title": "Weitere Sport-News Triathletin Derron siegt in Vancouver",
+          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-triathletin-derron-siegt-in-vancouver",
+          "image": "https://www.srf.ch/static/cms/images/320ws/129ff2.webp"
         },
         {
-          "title": "Ladies Open in Holzhäusern Arwefjäll spielt weiter gross auf – Knecht erneut unter Par Nach 2 von 3 Tagen beim Ladies Open in Holzhäusern führt weiterhin die Schwedin Kajsa Arwefjäll.",
-          "url": "https://www.srf.ch/sport/mehr-sport/golf/ladies-open-in-holzhaeusern-arwefjaell-spielt-weiter-gross-auf-knecht-erneut-unter-par",
-          "image": "https://www.srf.ch/static/cms/images/320ws/0b770b.webp"
+          "title": "6. Tag an Schwimm-EM in Paris Mityukov nicht im Rücken-Final – Liebmann pulverisiert Weltrekord Am 6. Tag der Schwimm-EM auf der Langbahn in Paris verpasst Roman Mityukov den Sprung in den Final über 100 m Rücken.",
+          "url": "https://www.srf.ch/sport/mehr-sport/schwimmen/6-tag-an-schwimm-em-in-paris-mityukov-nicht-im-ruecken-final-liebmann-pulverisiert-weltrekord",
+          "image": "https://www.srf.ch/static/cms/images/320ws/607aad1.webp"
         }
       ]
     }
