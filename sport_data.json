@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27.08.2026 17:27",
+  "lastUpdated": "28.08.2026 18:20",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Champions League: Auslosung PSG trifft auf Barça und ManCity – Real Madrid muss zu Arsenal Die Auslosung der Ligaphase in der Champions League hat hochkarätige Duelle hervorgebracht. Los geht&#039;s am 8. September.",
-          "url": "https://www.srf.ch/sport/fussball/champions-league/champions-league-auslosung-psg-trifft-auf-barca-und-mancity-real-madrid-muss-zu-arsenal",
-          "image": "https://www.srf.ch/static/cms/images/320ws/f4996d.webp"
+          "title": "Auslosung Conference League Thun muss bei Ajax ran, Lugano gegen Roter Stern Belgrad Die Gegner von Thun und Lugano in der Ligaphase der Conference League sind bekannt.",
+          "url": "https://www.srf.ch/sport/fussball/conference-league/auslosung-conference-league-thun-muss-bei-ajax-ran-lugano-gegen-roter-stern-belgrad",
+          "image": "https://www.srf.ch/static/cms/images/320ws/3d36889.webp"
         },
         {
-          "title": "In der CL-Quali angefangen Hearts erreichen Conference League ohne einen einzigen Sieg Europäisch spielen ohne einen einzigen regulären Sieg in der Quali? Absolut möglich.",
-          "url": "https://www.srf.ch/sport/fussball/conference-league/in-der-cl-quali-angefangen-hearts-erreichen-conference-league-ohne-einen-einzigen-sieg",
-          "image": "https://www.srf.ch/static/cms/images/320ws/cadb56.webp"
+          "title": "Nach Hattrick in Amsterdam Boteli trifft und trifft und trifft – wie lange noch für Sion? Shootingstar Winsley Boteli hat einen herausragenden Saisonstart hinter sich – und weckt damit weiter Begehrlichkeiten.",
+          "url": "https://www.srf.ch/sport/fussball/conference-league/nach-hattrick-in-amsterdam-boteli-trifft-und-trifft-und-trifft-wie-lange-noch-fuer-sion",
+          "image": "https://www.srf.ch/static/cms/images/320ws/36e94a.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
+          "title": "Neuer SIHF-Präsident Lüthi macht zum Amtsantritt eine klare Ansage Marc Lüthi tritt sein Amt als neuer Präsident des Schweizerischen Eishockey-Verbandes SIHF mit klaren Vorstellungen an.",
+          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/neuer-sihf-praesident-luethi-macht-zum-amtsantritt-eine-klare-ansage",
+          "image": "https://www.srf.ch/static/cms/images/320ws/669b3b1.webp"
+        },
+        {
           "title": "Nachfolger von Kessler Einziger Kandidat gewählt: Lüthi neuer SIHF-Präsident Der Berner Marc Lüthi ist wie erwartet zum neuen Präsidenten des Schweizer Eishockeyverbands gewählt worden.",
           "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/nachfolger-von-kessler-einziger-kandidat-gewaehlt-luethi-neuer-sihf-praesident",
           "image": "https://www.srf.ch/static/cms/images/320ws/23c58a.webp"
-        },
-        {
-          "title": "News aus der National League Vertrag bis 2030 verlängert: Genoni bleibt dem EVZ erhalten",
-          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-vertrag-bis-2030-verlaengert-genoni-bleibt-dem-evz-erhalten",
-          "image": "https://www.srf.ch/static/cms/images/320ws/c069c9.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
-          "title": "Auslosung an den US Open Wawrinka wieder gegen Berrettini – Bencic trifft auf Putinzewa Bei seiner Major-Dernière trifft Stan Wawrinka in der 1. Runde der US Open wie in Wimbledon auf Matteo Berrettini.",
-          "url": "https://www.srf.ch/sport/tennis/grand-slam-turniere/auslosung-an-den-us-open-wawrinka-wieder-gegen-berrettini-bencic-trifft-auf-putinzewa",
-          "image": "https://www.srf.ch/static/cms/images/320ws/ab6d77.webp"
+          "title": "Verschleiss-Sportart Tennis Verletzungen häufen sich – klagen die Profis zu Recht? Laut der Spielergewerkschaft PTPA steigen die Belastungen im Tennis markant. Eine Bestandesaufnahme vor den US Open.",
+          "url": "https://www.srf.ch/sport/tennis/grand-slam-turniere/verschleiss-sportart-tennis-verletzungen-haeufen-sich-klagen-die-profis-zu-recht",
+          "image": "https://www.srf.ch/static/cms/images/320ws/a49da7.webp"
         },
         {
-          "title": "Das beschäftigt vor US Open Alcaraz&#039; Handgelenk, Zverevs Nerven und Sabalenkas Sturz? Keine Gross-Attraktion und womöglich eine neue Weltnummer 1: Der Blick voraus auf die anstehenden US Open.",
-          "url": "https://www.srf.ch/sport/tennis/grand-slam-turniere/das-beschaeftigt-vor-us-open-alcaraz-handgelenk-zverevs-nerven-und-sabalenkas-sturz",
-          "image": "https://www.srf.ch/static/cms/images/320ws/2edd40.webp"
+          "title": "News aus dem Tennis Bandecchi in US-Open-Quali out – Jodar in Basel dabei",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-bandecchi-in-us-open-quali-out-jodar-in-basel-dabei",
+          "image": "https://www.srf.ch/static/cms/images/320ws/b22df5.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Weitere Sport-News Doppelvierer der Frauen überraschend nur im B-Final",
-          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-doppelvierer-der-frauen-ueberraschend-nur-im-b-final",
-          "image": "https://www.srf.ch/static/cms/images/320ws/0f8aa7.webp"
+          "title": "Ruder-WM in Amsterdam Perfekt taktiert: Ulrich/Schweizer jubeln über die Bronzemedaille Im Doppelzweier der Frauen sorgen Salome Ulrich und Fabienne Schweizer mit Bronze für die erste Schweizer WM-Medaille.",
+          "url": "https://www.srf.ch/sport/mehr-sport/rudern/ruder-wm-in-amsterdam-perfekt-taktiert-ulrich-schweizer-jubeln-ueber-die-bronzemedaille",
+          "image": "https://www.srf.ch/static/cms/images/320ws/f17364.webp"
         },
         {
-          "title": "Gesamter Erlös wird gespendet NFL-Meister Seahawks werden für 10 Milliarden verkauft Das Team aus Seattle steht vor einem spektakulären Besitzerwechsel.",
-          "url": "https://www.srf.ch/sport/mehr-sport/american-football/gesamter-erloes-wird-gespendet-nfl-meister-seahawks-werden-fuer-10-milliarden-verkauft",
-          "image": "https://www.srf.ch/static/cms/images/320ws/91e5ab.webp"
+          "title": "Weitere Sport-News Heidrich/Haussener und Hüberli/Brunner sind Schweizer Meister",
+          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-heidrich-haussener-und-hueberli-brunner-sind-schweizer-meister",
+          "image": "https://www.srf.ch/static/cms/images/320ws/2f231d.webp"
         }
       ]
     }
