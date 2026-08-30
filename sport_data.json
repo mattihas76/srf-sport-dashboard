@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29.08.2026 12:29",
+  "lastUpdated": "30.08.2026 11:31",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "News aus der Super League Neuer Stürmer: Lausanne bedient sich bei Nordsjaelland",
-          "url": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-neuer-stuermer-lausanne-bedient-sich-bei-nordsjaelland",
-          "image": "https://www.srf.ch/static/cms/images/320ws/bc37e13.webp"
+          "title": "News aus der Super League Aktiv auf dem Transfermarkt: Lausanne holt auch Cozza",
+          "url": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-aktiv-auf-dem-transfermarkt-lausanne-holt-auch-cozza",
+          "image": "https://www.srf.ch/static/cms/images/320ws/c64f7c.webp"
         },
         {
-          "title": "SRF-Livespiel am Samstag Lichtsteiner, Shaqiri und das Wankdorf: 5 Fragen vor YB – Basel Am Samstag kommt&#039;s im Wankdorf zum Duell zwischen YB und Basel. Wir blicken mit fünf Fragen auf den Spitzenkampf voraus.",
-          "url": "https://www.srf.ch/sport/fussball/super-league/srf-livespiel-am-samstag-lichtsteiner-shaqiri-und-das-wankdorf-5-fragen-vor-yb-basel",
-          "image": "https://www.srf.ch/static/cms/images/320ws/2a112f.webp"
+          "title": "Aufsteiger Vaduz empfängt GC Duell der beiden Sieglosen im «Ländle» Vaduz hatte in der Super League ein happiges Startprogramm. Am Sonntag geht&#039;s gegen das ebenfalls noch sieglose GC.",
+          "url": "https://www.srf.ch/sport/fussball/super-league/aufsteiger-vaduz-empfaengt-gc-duell-der-beiden-sieglosen-im-laendle",
+          "image": "https://www.srf.ch/static/cms/images/320ws/b5b61c.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "Laudatio von Ehefrau Mirka Federer offiziell in die Hall of Fame aufgenommen Roger Federer ist als zweiter Schweizer Tennisspieler nach Martina Hingis in die Hall of Fame aufgenommen worden.",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/laudatio-von-ehefrau-mirka-federer-offiziell-in-die-hall-of-fame-aufgenommen",
+          "image": "https://www.srf.ch/static/cms/images/320ws/94f1bc.webp"
+        },
+        {
           "title": "Verschleiss-Sportart Tennis Verletzungen häufen sich – klagen die Profis zu Recht? Laut der Spielergewerkschaft PTPA steigen die Belastungen im Tennis markant. Eine Bestandesaufnahme vor den US Open.",
           "url": "https://www.srf.ch/sport/tennis/grand-slam-turniere/verschleiss-sportart-tennis-verletzungen-haeufen-sich-klagen-die-profis-zu-recht",
           "image": "https://www.srf.ch/static/cms/images/320ws/a49da7.webp"
-        },
-        {
-          "title": "News aus dem Tennis Bandecchi in US-Open-Quali out – Jodar in Basel dabei",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-bandecchi-in-us-open-quali-out-jodar-in-basel-dabei",
-          "image": "https://www.srf.ch/static/cms/images/320ws/b22df5.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Ruder-WM: Round-up Trotz Frust: Schweizer Doppelvierer der Frauen gewinnt B-Final Lisa Lötscher, Célia Dupré, Flavia Lötscher und Nina Wettstein rehabilitieren sich mit dem Sieg im kleinen Final.",
-          "url": "https://www.srf.ch/sport/mehr-sport/rudern/ruder-wm-round-up-trotz-frust-schweizer-doppelvierer-der-frauen-gewinnt-b-final",
-          "image": "https://www.srf.ch/static/cms/images/320ws/6c65323.webp"
+          "title": "News aus den US Sports Zwei Freistösse inklusive: Messi glänzt mit Viererpack",
+          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/news-aus-den-us-sports-zwei-freistoesse-inklusive-messi-glaenzt-mit-viererpack",
+          "image": "https://www.srf.ch/static/cms/images/320ws/cc9f6f.webp"
         },
         {
-          "title": "Ruder-WM in Amsterdam Wie bei der EM: Para-Ruderin Ghiringhelli schnappt sich Bronze Claire Ghiringhelli beschert der Schweiz bei der Ruder-WM in den Niederlanden die 2. Medaille. Sie wird souverän Dritte.",
-          "url": "https://www.srf.ch/sport/mehr-sport/rudern/ruder-wm-in-amsterdam-wie-bei-der-em-para-ruderin-ghiringhelli-schnappt-sich-bronze",
-          "image": "https://www.srf.ch/static/cms/images/320ws/41bdbb.webp"
+          "title": "Sieg in London gegen Itauma Hrgovic erster kroatischer Schwergewichtsweltmeister Filip Hrgovic gewinnt in London einen spektakulären WM-Kampf gegen den jungen Briten Moses Itauma.",
+          "url": "https://www.srf.ch/sport/mehr-sport/boxen/sieg-in-london-gegen-itauma-hrgovic-erster-kroatischer-schwergewichtsweltmeister",
+          "image": "https://www.srf.ch/static/cms/images/320ws/426cb2.webp"
         }
       ]
     }
