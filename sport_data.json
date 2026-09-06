@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05.09.2026 10:12",
+  "lastUpdated": "06.09.2026 10:33",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Derby am Samstag live bei SRF Kollers Wiedersehen mit GC – diesmal mit FCZ-Emblem Marcel Koller bestreitet am Samstag erstmals ein Zürcher Derby auf Seiten des FCZ.",
-          "url": "https://www.srf.ch/sport/fussball/super-league/derby-am-samstag-live-bei-srf-kollers-wiedersehen-mit-gc-diesmal-mit-fcz-emblem",
-          "image": "https://www.srf.ch/static/cms/images/320ws/681780a.webp"
+          "title": "Vaduz-Überflieger im Fokus Tore, Assists, Spielfreude: Dalipi führt den Aufsteiger an Aufsteiger Vaduz stellt die zweitbeste Offensive der Liga. Hauptverantwortlich dafür: Lutfi Dalipi.",
+          "url": "https://www.srf.ch/sport/fussball/super-league/vaduz-ueberflieger-im-fokus-tore-assists-spielfreude-dalipi-fuehrt-den-aufsteiger-an",
+          "image": "https://www.srf.ch/static/cms/images/320ws/decbab.webp"
         },
         {
-          "title": "Fussball aus den Topligen Athekame mit Premierentor für Lyon – PSG und Real tauchen",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-athekame-mit-premierentor-fuer-lyon-psg-und-real-tauchen",
-          "image": "https://www.srf.ch/static/cms/images/320ws/7848ab.webp"
+          "title": "GC-Coach Zeidler ist irritiert Pechvogel statt Derbyheld: Konsequenzen für Rückkehrer Morandi? Ausgerechnet Giotto Morandi hätte im Zürcher Derby zum grossen Helden werden können. Nun wird er sich erklären müssen.",
+          "url": "https://www.srf.ch/sport/fussball/super-league/gc-coach-zeidler-ist-irritiert-pechvogel-statt-derbyheld-konsequenzen-fuer-rueckkehrer-morandi",
+          "image": "https://www.srf.ch/static/cms/images/320ws/dd3d61.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
+          "title": "Champions Hockey League Drei Tore in einem Powerplay: Freiburg schlägt auch Klagenfurt Fribourg-Gottéron steht nach zwei Spielen in der Champions Hockey League mit der vollen Punktzahl da.",
+          "url": "https://www.srf.ch/sport/eishockey/champions-hockey-league/champions-hockey-league-drei-tore-in-einem-powerplay-freiburg-schlaegt-auch-klagenfurt",
+          "image": "https://www.srf.ch/static/cms/images/320ws/f5d129.webp"
+        },
+        {
           "title": "Champions Hockey League Davos ringt Storhamar in Overtime nieder – Genf schlägt Eisbären Davos setzt sich zum Auftakt der Champions Hockey League mit 3:2 n.V. gegen Storhamar durch. Auch Genf-Servette siegt.",
           "url": "https://www.srf.ch/sport/eishockey/champions-hockey-league/champions-hockey-league-davos-ringt-storhamar-in-overtime-nieder-genf-schlaegt-eisbaeren",
           "image": "https://www.srf.ch/static/cms/images/320ws/564e55.webp"
-        },
-        {
-          "title": "Eigengewächs sogleich Captain Ken Jäger: Mit Rentenvertrag und grossen Zielen zurück in Davos Mit der Rückkehr zum HCD erfüllt sich für Ken Jäger ein Traum. Das Team verzeichnete aber auch gewichtige Abgänge.",
-          "url": "https://www.srf.ch/sport/eishockey/national-league/eigengewaechs-sogleich-captain-ken-jaeger-mit-rentenvertrag-und-grossen-zielen-zurueck-in-davos",
-          "image": "https://www.srf.ch/static/cms/images/320ws/b755c5.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "US Open: Round-up Fritz scheitert trotz 2:0-Satzführung – Zverev für einmal locker Taylor Fritz scheidet an den US Open bereits in der 3. Runde aus. Bei den Frauen scheitert auch Amanda Anisimova früh.",
+          "url": "https://www.srf.ch/sport/tennis/grand-slam-turniere/us-open-round-up-fritz-scheitert-trotz-2-0-satzfuehrung-zverev-fuer-einmal-locker",
+          "image": "https://www.srf.ch/static/cms/images/320ws/2b426a.webp"
+        },
+        {
           "title": "Knappe Niederlage Die grosse Williams-Show: Schwestern im Doppel gefeiert Zum ersten Mal seit 2022 spielten Serena und Venus Williams gemeinsam bei den US Open.",
           "url": "https://www.srf.ch/sport/tennis/grand-slam-turniere/knappe-niederlage-die-grosse-williams-show-schwestern-im-doppel-gefeiert",
           "image": "https://www.srf.ch/static/cms/images/320ws/8748ce.webp"
-        },
-        {
-          "title": "US Open: Round-up Favoritensiege in Day Session – Tsitsipas überrascht weiter An den US Open in den Achtelfinals: unter anderem Carlos Alcaraz, Aryna Sabalenka, Daniil Medwedew und Jessica Pegula.",
-          "url": "https://www.srf.ch/sport/tennis/grand-slam-turniere/us-open-round-up-favoritensiege-in-day-session-tsitsipas-ueberrascht-weiter",
-          "image": "https://www.srf.ch/static/cms/images/320ws/e53f0cf.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
+          "title": "Joel Girrbach gut im Rennen Altmeister Paul Casey geht als Leader auf die Schlussrunde Nach 3 von 4 Runden führt in Crans-Montana Paul Casey. Joel Girrbach (10.) liegt nur 3 Schläge hinter Rang 2.",
+          "url": "https://www.srf.ch/sport/mehr-sport/golf/joel-girrbach-gut-im-rennen-altmeister-paul-casey-geht-als-leader-auf-die-schlussrunde",
+          "image": "https://www.srf.ch/static/cms/images/320ws/c37cad7.webp"
+        },
+        {
           "title": "European Masters Girrbach übersteht Cut – Lawrence bei Halbzeit in Führung Als einziger Schweizer darf Joel Girrbach am Wochenende weiterspielen. Derweil grüsst Thriston Lawrence von der Spitze.",
           "url": "https://www.srf.ch/sport/mehr-sport/golf/european-masters-girrbach-uebersteht-cut-lawrence-bei-halbzeit-in-fuehrung",
           "image": "https://www.srf.ch/static/cms/images/320ws/0063c2c.webp"
-        },
-        {
-          "title": "European Masters Ashun führt knapp – Schweizer Amateur überrascht Beim European Masters in Crans-Montana ist nach dem ersten Tag erwartungsgemäss alles noch nah beieinander.",
-          "url": "https://www.srf.ch/sport/mehr-sport/golf/european-masters-ashun-fuehrt-knapp-schweizer-amateur-ueberrascht",
-          "image": "https://www.srf.ch/static/cms/images/320ws/2f092b.webp"
         }
       ]
     }
