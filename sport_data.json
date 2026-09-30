@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29.09.2026 12:23",
+  "lastUpdated": "30.09.2026 12:09",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "WM-Playoffs: 3 Rückkehrerinnen Navarro setzt auf bewährte Kräfte – und auf Peng im Tor Die Schweizer Frauen-Nati tritt mit einer erfahrenen Equipe zu den WM-Playoff-Spielen gegen Israel an.",
-          "url": "https://www.srf.ch/sport/fussball/frauen-nationalteam/wm-playoffs-3-rueckkehrerinnen-navarro-setzt-auf-bewaehrte-kraefte-und-auf-peng-im-tor",
-          "image": "https://www.srf.ch/static/cms/images/320ws/2f27cd.webp"
+          "title": "News aus der Nati Racioppi stösst als 4. Goalie zur Nati",
+          "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/news-aus-der-nati-racioppi-stoesst-als-4-goalie-zur-nati",
+          "image": "https://www.srf.ch/static/cms/images/320ws/f53b9b.webp"
         },
         {
-          "title": "Neuer FCB-Coach Jokanovic: «Es ist viel Talent im Team vorhanden» Slavisa Jokanovic sprach erstmals als FCB-Trainer zu den Medien. Der Serbe kann sich vorstellen, länger zu bleiben.",
-          "url": "https://www.srf.ch/sport/fussball/super-league/neuer-fcb-coach-jokanovic-es-ist-viel-talent-im-team-vorhanden",
-          "image": "https://www.srf.ch/static/cms/images/320ws/47de44.webp"
+          "title": "2 Spiele, 2 Siege für die Nati Start ist geglückt – in Luzern winkt bereits die Vorentscheidung Die erste Tranche des Länderspielfensters ist absolviert. Die Schweiz ist in der Nations League auf Kurs.",
+          "url": "https://www.srf.ch/sport/fussball/nationalmannschaft/2-spiele-2-siege-fuer-die-nati-start-ist-geglueckt-in-luzern-winkt-bereits-die-vorentscheidung",
+          "image": "https://www.srf.ch/static/cms/images/320ws/5cf0c4.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
-          "title": "National League am Dienstag Audio-Konferenz: Zähringer Derby und Biels Gastspiel beim Leader Verfolgen Sie das Geschehen vom Dienstag in der National League mit 7 Partien bei SRF in der Audio-Konferenz.",
-          "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-dienstag-audio-konferenz-zaehringer-derby-und-biels-gastspiel-beim-leader",
-          "image": "https://www.srf.ch/static/cms/images/320ws/9d497e.webp"
+          "title": "Euro Hockey Tour in Finnland Schweizerinnen kassieren eine 0:5-Klatsche gegen Schweden Die Schweiz geht gegen Schweden an der Euro Hockey Tour in Lahti unter.",
+          "url": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/euro-hockey-tour-in-finnland-schweizerinnen-kassieren-eine-0-5-klatsche-gegen-schweden",
+          "image": "https://www.srf.ch/static/cms/images/320ws/44feba.webp"
         },
         {
-          "title": "SCB-Youngster im Captain-Team Alain Graf: «Das ist eine Riesen-Ehre» Der 21-jährige Stürmer aus dem Berner Oberland erklärt im Interview, was ihm diese Rolle bedeutet.",
-          "url": "https://www.srf.ch/sport/eishockey/national-league/scb-youngster-im-captain-team-alain-graf-das-ist-eine-riesen-ehre",
-          "image": "https://www.srf.ch/static/cms/images/320ws/4886abb.webp"
+          "title": "Auftakt in die NHL-Saison Panthers besiegen den Stanley-Cup-Sieger Die Florida Panthers feiern zum Auftakt der NHL-Saison einen 1:0-Sieg n.V. gegen die Carolina Hurricanes.",
+          "url": "https://www.srf.ch/sport/eishockey/nhl/auftakt-in-die-nhl-saison-panthers-besiegen-den-stanley-cup-sieger",
+          "image": "https://www.srf.ch/static/cms/images/320ws/680cfc.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
+          "title": "News aus dem Tennis Golubic steht in Peking in der 2. Runde",
+          "url": "https://www.srf.ch/sport/tennis/wta-tour/news-aus-dem-tennis-golubic-steht-in-peking-in-der-2-runde",
+          "image": "https://www.srf.ch/static/cms/images/320ws/f5a90a.webp"
+        },
+        {
           "title": "News aus dem Tennis Davis Cup: Schweiz zuhause gegen Marokko",
           "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-davis-cup-schweiz-zuhause-gegen-marokko",
           "image": "https://www.srf.ch/static/cms/images/320ws/f1252e.webp"
-        },
-        {
-          "title": "News aus dem Tennis Tschechien gewinnt BJK Cup, Team Europa den Laver Cup",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-tschechien-gewinnt-bjk-cup-team-europa-den-laver-cup",
-          "image": "https://www.srf.ch/static/cms/images/320ws/905357e.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
+          "title": "Keine Kürzungen für Verbände Sport-Dachverband Swiss Olympic muss sparen Swiss Olympic will im Budget für das Jahr 2027 fünf Millionen Franken einsparen.",
+          "url": "https://www.srf.ch/sport/mehr-sport/allgemein/keine-kuerzungen-fuer-verbaende-sport-dachverband-swiss-olympic-muss-sparen",
+          "image": "https://www.srf.ch/static/cms/images/320ws/a0b87a.webp"
+        },
+        {
           "title": "Weitere Sport-News Vilaça ist Triathlon-Weltmeister – Schweizer Ruderinnen glänzen",
           "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-vilaca-ist-triathlon-weltmeister-schweizer-ruderinnen-glaenzen",
           "image": "https://www.srf.ch/static/cms/images/320ws/4636af.webp"
-        },
-        {
-          "title": "OL-EM in Litauen Aebersolds Aufholjagd beschert der Männer-Staffel Gold Am letzten Tag der OL-EM in Litauen läuft die Schweizer Männer-Staffel zur Goldmedaille. Die Frauen holen Silber.",
-          "url": "https://www.srf.ch/sport/mehr-sport/orientierungslauf/ol-em-in-litauen-aebersolds-aufholjagd-beschert-der-maenner-staffel-gold",
-          "image": "https://www.srf.ch/static/cms/images/320ws/e48740.webp"
         }
       ]
     }
