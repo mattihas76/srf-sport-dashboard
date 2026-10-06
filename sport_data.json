@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05.10.2026 14:00",
+  "lastUpdated": "06.10.2026 13:00",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Schweizer Cup Frauen Drei Super-League-Duelle im Cup-Achtelfinal Die Achtelfinals des Schweizer Frauen-Cups stehen fest. Dabei kommt es zum Duell zwischen dem FCZ und YB.",
-          "url": "https://www.srf.ch/sport/fussball/schweizer-cup/schweizer-cup-frauen-drei-super-league-duelle-im-cup-achtelfinal",
-          "image": "https://www.srf.ch/static/cms/images/320ws/48dfc5.webp"
+          "title": "Infantino unter Beschuss Wirbel um WM-Goalie Mpasi Nach dem «Fall Balogun» droht der Fifa und Präsident Infantino ein weiterer Skandal im Zusammenhang mit der WM.",
+          "url": "https://www.srf.ch/sport/fussball/fussball-allgemein/infantino-unter-beschuss-wirbel-um-wm-goalie-mpasi",
+          "image": "https://www.srf.ch/static/cms/images/320ws/a68c07.webp"
         },
         {
-          "title": "Nati in Nations League Gegen Nordmazedonien dürfen ein paar Reservisten ran Vor dem Rückspiel in der Nations League gegen Nordmazedonien kündigt Murat Yakin personelle Rochaden an.",
-          "url": "https://www.srf.ch/sport/fussball/nations-league/nati-in-nations-league-gegen-nordmazedonien-duerfen-ein-paar-reservisten-ran",
-          "image": "https://www.srf.ch/static/cms/images/320ws/d504fd.webp"
+          "title": "News vom Nationalteam Anspielzeit der Frauen-Nati gegen Israel vorverlegt",
+          "url": "https://www.srf.ch/sport/fussball/super-league/news-vom-nationalteam-anspielzeit-der-frauen-nati-gegen-israel-vorverlegt",
+          "image": "https://www.srf.ch/static/cms/images/320ws/e1c0ffa.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
-          "title": "Aus persönlichen Gründen Fahrni hängt Schlittschuhe mit 23 Jahren an den Nagel Stürmer Joshua Fahrni löst den Vertrag mit den ZSC Lions per sofort auf und beendet seine Karriere.",
-          "url": "https://www.srf.ch/sport/eishockey/national-league/aus-persoenlichen-gruenden-fahrni-haengt-schlittschuhe-mit-23-jahren-an-den-nagel",
-          "image": "https://www.srf.ch/static/cms/images/320ws/4eeb3b.webp"
+          "title": "CHL-Duell Rögle – Davos In Ängelholm trifft HCD-Coach Holden auf seinen Mentor In der 5. Runde der Champions Hockey League kann Davos bei Rögle den Einzug in die K.o.-Phase perfekt machen.",
+          "url": "https://www.srf.ch/sport/eishockey/champions-hockey-league/chl-duell-roegle-davos-in-aengelholm-trifft-hcd-coach-holden-auf-seinen-mentor",
+          "image": "https://www.srf.ch/static/cms/images/320ws/998ec7.webp"
         },
         {
-          "title": "Viola Calligaris blickt zurück Aus «Alles, bloss nicht Fussball» wurde eine Natispielerin Mit der Nati steht Viola Calligaris vor wegweisenden Partien. Zuvor stattete sie dem «Sportpanorama» einen Besuch ab.",
-          "url": "https://www.srf.ch/sport/fussball/frauen-nationalteam/viola-calligaris-blickt-zurueck-aus-alles-bloss-nicht-fussball-wurde-eine-natispielerin",
-          "image": "https://www.srf.ch/static/cms/images/320ws/1bc057b.webp"
+          "title": "Die Schweizer in der NHL Bichsel und Moser siegen, Niederreiter schaut zu In der Nacht auf Dienstag hat ein Schweizer Duo jeweils einen Sieg einfahren können.",
+          "url": "https://www.srf.ch/sport/eishockey/nhl/die-schweizer-in-der-nhl-bichsel-und-moser-siegen-niederreiter-schaut-zu",
+          "image": "https://www.srf.ch/static/cms/images/320ws/f08f2a.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
-          "title": "News aus dem Tennis Djokovic schlägt Zverev – Golubic und Sabalenka in Peking out",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-djokovic-schlaegt-zverev-golubic-und-sabalenka-in-peking-out",
-          "image": "https://www.srf.ch/static/cms/images/320ws/2f2e08.webp"
+          "title": "Qualifikation fürs Hauptfeld Tomic sendet in Schanghai ein Lebenszeichen Es ist in den letzten Jahren ruhig geworden um Bernard Tomic. Nun macht der Australier wieder positive Schlagzeilen.",
+          "url": "https://www.srf.ch/sport/tennis/atp-tour/qualifikation-fuers-hauptfeld-tomic-sendet-in-schanghai-ein-lebenszeichen",
+          "image": "https://www.srf.ch/static/cms/images/320ws/a03f63.webp"
         },
         {
-          "title": "News aus dem Tennis Bencic in Peking weiter – Sinner verpasst auch Schanghai",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-bencic-in-peking-weiter-sinner-verpasst-auch-schanghai",
-          "image": "https://www.srf.ch/static/cms/images/320ws/44144d.webp"
+          "title": "News aus dem Tennis Alcaraz holt in Tokio ersten Titel nach Leidenszeit",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-alcaraz-holt-in-tokio-ersten-titel-nach-leidenszeit",
+          "image": "https://www.srf.ch/static/cms/images/320ws/436377.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Historischer Moment Schweizer Volleyballerinnen qualifizieren sich erstmals für WM Die Volleyball-Frauen-Nati wird 2027 in den USA und Kanada erstmals an einer WM-Endrunde teilnehmen.",
-          "url": "https://www.srf.ch/sport/mehr-sport/volleyball/historischer-moment-schweizer-volleyballerinnen-qualifizieren-sich-erstmals-fuer-wm",
-          "image": "https://www.srf.ch/static/cms/images/320ws/890286.webp"
+          "title": "Darts-Spektakel in Basel Littler fehlt – Bellmont muss sich noch qualifizieren Am Wochenende gastiert zum dritten Mal die Darts-Elite in der Basler St. Jakobshalle – ohne den Superstar der Szene.",
+          "url": "https://www.srf.ch/sport/mehr-sport/darts-spektakel-in-basel-littler-fehlt-bellmont-muss-sich-noch-qualifizieren",
+          "image": "https://www.srf.ch/static/cms/images/320ws/898474.webp"
         },
         {
-          "title": "Historischer Machtwechsel China verliert Platz 1 der Tischtennis-Weltrangliste Zum ersten Mal seit 2018 steht kein Chinese mehr an der Spitze der Tischtennis-Weltrangliste.",
-          "url": "https://www.srf.ch/sport/mehr-sport/historischer-machtwechsel-china-verliert-platz-1-der-tischtennis-weltrangliste",
-          "image": "https://www.srf.ch/static/cms/images/320ws/89a2e5.webp"
+          "title": "Weitere Sport-News Indien und Katar im Rennen für Olympia 2036",
+          "url": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-indien-und-katar-im-rennen-fuer-olympia-2036",
+          "image": "https://www.srf.ch/static/cms/images/320ws/e68cd9.webp"
         }
       ]
     }
