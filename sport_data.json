@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20.10.2026 11:07",
+  "lastUpdated": "21.10.2026 11:24",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "News aus der Super League Ex-Sportchef Albrecht kehrt zu Thun zurück",
-          "url": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-ex-sportchef-albrecht-kehrt-zu-thun-zurueck",
-          "image": "https://www.srf.ch/static/cms/images/320ws/20572e.webp"
+          "title": "News aus der Super League Stevanovic fällt nach OP monatelang aus",
+          "url": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-stevanovic-faellt-nach-op-monatelang-aus",
+          "image": "https://www.srf.ch/static/cms/images/320ws/ce9509.webp"
         },
         {
-          "title": "Vorfall in Brentford Rugby-Ball ins Stadion gekickt: Polizei ermittelt Ein Lausbubenstreich beim Fussballspiel Brentford – Liverpool könnte für die «Täter» Folgen haben.",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/vorfall-in-brentford-rugby-ball-ins-stadion-gekickt-polizei-ermittelt",
-          "image": "https://www.srf.ch/static/cms/images/320ws/3609e6.webp"
+          "title": "Internationale Fussball-News PSG-Schock: Kvaratskhelia erleidet Kreuzbandriss",
+          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-psg-schock-kvaratskhelia-erleidet-kreuzbandriss",
+          "image": "https://www.srf.ch/static/cms/images/320ws/f8c84a.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
-          "title": "National League am Dienstag Audio-Konferenz: Lions empfangen HCD – Tatzenderby in Bern Verfolgen Sie das Geschehen vom Dienstag in der National League mit 6 Partien bei SRF in der Audio-Konferenz.",
-          "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-dienstag-audio-konferenz-lions-empfangen-hcd-tatzenderby-in-bern",
-          "image": "https://www.srf.ch/static/cms/images/320ws/721ae3.webp"
+          "title": "Debüt für Lausanne Kurashev nach zermürbenden Monaten: «Es war sehr emotional» Endlich wieder Eishockey: Für Philipp Kurashev endete mit dem Debüt für Lausanne eine Zeit voller Ungewissheit.",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/debuet-fuer-lausanne-kurashev-nach-zermuerbenden-monaten-es-war-sehr-emotional",
+          "image": "https://www.srf.ch/static/cms/images/320ws/01c65f.webp"
         },
         {
-          "title": "News aus der National League Carr erhält fünf Spielsperren – Jalonen hört auf",
-          "url": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-carr-erhaelt-fuenf-spielsperren-jalonen-hoert-auf",
-          "image": "https://www.srf.ch/static/cms/images/320ws/0dde4d.webp"
+          "title": "Suter schlägt Niederreiter Hischier und Siegenthaler punkten bei Devils-Sieg In der NHL fährt New Jersey einen Sieg über Colorado ein. Auch Pius Suter und Lian Bichsel gewinnen.",
+          "url": "https://www.srf.ch/sport/eishockey/nhl/suter-schlaegt-niederreiter-hischier-und-siegenthaler-punkten-bei-devils-sieg",
+          "image": "https://www.srf.ch/static/cms/images/320ws/61de6c.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
-          "title": "News aus dem Tennis WTA Finals wohl ohne Swiatek",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-wta-finals-wohl-ohne-swiatek",
-          "image": "https://www.srf.ch/static/cms/images/320ws/efbcf9.webp"
+          "title": "News aus dem Tennis Endstation Achtelfinal: Golubic unterliegt Boulter klar",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-endstation-achtelfinal-golubic-unterliegt-boulter-klar",
+          "image": "https://www.srf.ch/static/cms/images/320ws/e62a4a.webp"
         },
         {
-          "title": "Traumpaar hat sich getrennt Ehe-Aus und Karriere-Ende: Monfils durchlebt schwierige Zeit Bei den French Open sprach Gaël Monfils noch voller Liebe von seiner Frau – nun gehen die Tennisstars getrennte Wege.",
-          "url": "https://www.srf.ch/sport/tennis/atp-tour/traumpaar-hat-sich-getrennt-ehe-aus-und-karriere-ende-monfils-durchlebt-schwierige-zeit",
-          "image": "https://www.srf.ch/static/cms/images/320ws/97549d7.webp"
+          "title": "News aus dem Tennis Bencic meistert Startaufgabe – WTA Finals ohne Swiatek",
+          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-bencic-meistert-startaufgabe-wta-finals-ohne-swiatek",
+          "image": "https://www.srf.ch/static/cms/images/320ws/84b40fb.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "Genfer vor 13. NBA-Saison Capela: «Alles, was noch kommt, ist Bonus» In der Nacht auf Mittwoch startet Clint Capela in seine 13. NBA-Saison. Seine Rolle bei Houston hat sich verändert.",
-          "url": "https://www.srf.ch/sport/mehr-sport/basketball/genfer-vor-13-nba-saison-capela-alles-was-noch-kommt-ist-bonus",
-          "image": "https://www.srf.ch/static/cms/images/320ws/e4a9bc0.webp"
+          "title": "NBA: Start in die neue Saison Pistons mit Spektakel-Comeback – Knicks unterliegen 76ers Die Detroit Pistons haben zum NBA-Saisonstart einen spektakulären Sieg über die Boston Celtics gefeiert.",
+          "url": "https://www.srf.ch/sport/mehr-sport/basketball/nba-start-in-die-neue-saison-pistons-mit-spektakel-comeback-knicks-unterliegen-76ers",
+          "image": "https://www.srf.ch/static/cms/images/320ws/743a5a.webp"
         },
         {
-          "title": "Start in die neue NBA-Saison Nach spektakulären Wechseln: Werden die Karten neu gemischt? Die Machtverhältnisse in der NBA könnten sich nach einigen Top-Transfers vor allem im Osten verschoben haben.",
-          "url": "https://www.srf.ch/sport/mehr-sport/basketball/start-in-die-neue-nba-saison-nach-spektakulaeren-wechseln-werden-die-karten-neu-gemischt",
-          "image": "https://www.srf.ch/static/cms/images/320ws/c4384e.webp"
+          "title": "WM in Rotterdam Am Barren überragend: Schweizer turnen auf den 5. WM-Rang Die Schweizer Kunstturner überzeugen an der WM im Teamfinal mit 18 praktisch fehlerlosen Übungen.",
+          "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/wm-in-rotterdam-am-barren-ueberragend-schweizer-turnen-auf-den-5-wm-rang",
+          "image": "https://www.srf.ch/static/cms/images/320ws/df8746.webp"
         }
       ]
     }
