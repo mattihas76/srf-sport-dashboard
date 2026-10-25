@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24.10.2026 10:32",
+  "lastUpdated": "25.10.2026 10:58",
   "categories": [
     {
       "name": "Fussball",
@@ -7,14 +7,14 @@
       "url": "https://www.srf.ch/sport/fussball",
       "articles": [
         {
-          "title": "Internationale Fussball-News «Stabiler» Kompany fehlt wochenlang",
-          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-stabiler-kompany-fehlt-wochenlang",
-          "image": "https://www.srf.ch/static/cms/images/320ws/a9c679.webp"
+          "title": "265. «Clasico» steigt Sonntag Geht Schere zwischen Barça und Real noch weiter auseinander? Selten zuvor war die Favoritenrolle vor einem «Clasico» so klar verteilt. Fast alles spricht für Barça und gegen Real.",
+          "url": "https://www.srf.ch/sport/fussball/internationale-ligen/265-clasico-steigt-sonntag-geht-schere-zwischen-barca-und-real-noch-weiter-auseinander",
+          "image": "https://www.srf.ch/static/cms/images/320ws/496246.webp"
         },
         {
-          "title": "Letzte Saison 3 Siege in Bern St. Gallen kehrt ins «Lieblingsstadion» Wankdorf zurück Vor fast genau einem Jahr konnte der FCSG eine 20-jährige Sieglos-Serie in Bern brechen und weitere Siege folgen lassen.",
-          "url": "https://www.srf.ch/sport/fussball/super-league/letzte-saison-3-siege-in-bern-st-gallen-kehrt-ins-lieblingsstadion-wankdorf-zurueck",
-          "image": "https://www.srf.ch/static/cms/images/320ws/2321f4.webp"
+          "title": "Schweizer Cup, Achtelfinal Hattrick beim 3:1: Bonsu schiesst den FCZ im Alleingang ab YB qualifiziert sich im Letzigrund dank einer überragenden Josephine Bonsu für den Cup-Viertelfinal.",
+          "url": "https://www.srf.ch/sport/fussball/frauen-fussball/schweizer-cup-achtelfinal-hattrick-beim-3-1-bonsu-schiesst-den-fcz-im-alleingang-ab",
+          "image": "https://www.srf.ch/static/cms/images/320ws/445f6c.webp"
         }
       ]
     },
@@ -24,14 +24,14 @@
       "url": "https://www.srf.ch/sport/eishockey",
       "articles": [
         {
+          "title": "National League am Samstag Kurashev schiesst Lausanne zum Sieg – Ambri festigt Platz 2 Die Waadtländer gewinnen das Romand-Derby in der National League. Ambri schlägt Ajoie, Biel lässt Zug keine Chance.",
+          "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-samstag-kurashev-schiesst-lausanne-zum-sieg-ambri-festigt-platz-2",
+          "image": "https://www.srf.ch/static/cms/images/320ws/63dda8.webp"
+        },
+        {
           "title": "National League am Freitag Bern fertigt den HCD ab – Zug mit geglückter Rückkehr nach Hause Der EVZ jubelt bei der Heimpremiere über 3 Punkte, Bern siegt in Davos 4:1 und der ZSC zittert sich zum nächsten Sieg.",
           "url": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-bern-fertigt-den-hcd-ab-zug-mit-geglueckter-rueckkehr-nach-hause",
           "image": "https://www.srf.ch/static/cms/images/320ws/dbfcac.webp"
-        },
-        {
-          "title": "Weg von den Winnipeg Jets Per sofort: Hellebuyck wird neuer Torhüter der New Jersey Devils Nico Hischier, Timo Meier und Jonas Siegenthaler bekommen einen neuen Torhüter: Olympiasieger Connor Hellebuyck.",
-          "url": "https://www.srf.ch/sport/eishockey/nhl/weg-von-den-winnipeg-jets-per-sofort-hellebuyck-wird-neuer-torhueter-der-new-jersey-devils",
-          "image": "https://www.srf.ch/static/cms/images/320ws/1f3dc2.webp"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "url": "https://www.srf.ch/sport/tennis",
       "articles": [
         {
-          "title": "News aus dem Tennis Wawrinka scheitert an Cobolli – auch Bencic out",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-wawrinka-scheitert-an-cobolli-auch-bencic-out",
-          "image": "https://www.srf.ch/static/cms/images/320ws/b59268.webp"
+          "title": "Auslosung Swiss Indoors Happiges Los für Wawrinka – Djokovic gegen Humbert Wawrinka trifft in der 1. Runde der Swiss Indoors auf die tschechische Weltnummer 20 Jiri Lehecka.",
+          "url": "https://www.srf.ch/sport/tennis/atp-tour/auslosung-swiss-indoors-happiges-los-fuer-wawrinka-djokovic-gegen-humbert",
+          "image": "https://www.srf.ch/static/cms/images/320ws/ef02af.webp"
         },
         {
-          "title": "News aus dem Tennis Wawrinka übersteht 1. Runde in Lyon – Bertola verpasst Premiere",
-          "url": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-wawrinka-uebersteht-1-runde-in-lyon-bertola-verpasst-premiere",
-          "image": "https://www.srf.ch/static/cms/images/320ws/11c5de.webp"
+          "title": "Swiss Indoors in Basel Ein Turnier ganz im Zeichen von Wawrinkas letztem Tanz Stan Wawrinka gibt in Basel seinen wettkampfmässigen Abschied. Fast drohte ihm Novak Djokovic die Show zu stehlen.",
+          "url": "https://www.srf.ch/sport/tennis/atp-tour/swiss-indoors-in-basel-ein-turnier-ganz-im-zeichen-von-wawrinkas-letztem-tanz",
+          "image": "https://www.srf.ch/static/cms/images/320ws/de0bd89.webp"
         }
       ]
     },
@@ -58,14 +58,14 @@
       "url": "https://www.srf.ch/sport/mehr-sport",
       "articles": [
         {
-          "title": "News aus den US Sports Tampa-Siegesserie gestoppt – Brewers legen in World Series vor",
-          "url": "https://www.srf.ch/sport/mehr-sport/news-aus-den-us-sports-tampa-siegesserie-gestoppt-brewers-legen-in-world-series-vor",
-          "image": "https://www.srf.ch/static/cms/images/320ws/e45340.webp"
+          "title": "News aus den US Sports 3. Saisontor für Embolo – Devils erhalten Momentum aufrecht",
+          "url": "https://www.srf.ch/sport/mehr-sport/news-aus-den-us-sports-3-saisontor-fuer-embolo-devils-erhalten-momentum-aufrecht",
+          "image": "https://www.srf.ch/static/cms/images/320ws/ac5111.webp"
         },
         {
-          "title": "Kunstturn-WM: Mehrkampffinal Topfavoritin Nemour patzt am 1. Gerät – Blakely ist Weltmeisterin Überraschung an der WM in Rotterdam. Gold geht nicht an Favoritin Kaylia Nemour, sondern an Skye Blakely aus den USA.",
-          "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturn-wm-mehrkampffinal-topfavoritin-nemour-patzt-am-1-geraet-blakely-ist-weltmeisterin",
-          "image": "https://www.srf.ch/static/cms/images/320ws/722a9a.webp"
+          "title": "Kunstturn-WM in Rotterdam Nemour rehabilitiert sich und holt überlegen Gold Nach der verpassten Medaille im Gerätefinal gewinnt Kaylia Nemour an der WM in Rotterdam am Stufenbarren überlegen Gold.",
+          "url": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturn-wm-in-rotterdam-nemour-rehabilitiert-sich-und-holt-ueberlegen-gold",
+          "image": "https://www.srf.ch/static/cms/images/320ws/229efc.webp"
         }
       ]
     }
